@@ -1,4 +1,4 @@
-baseurl                 = "https://turbohustle.xyz/"               # Your domain name. Must end with "/"
+baseurl                 = "https://wonderful-tesla-da4783.netlify.com/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Turbo Hustle"
 theme                   = "hugo-theme-sam"
