@@ -3,17 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://turbohustle.xyz/posts/long-form-post/</loc>
+    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/posts/code-poetry/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/about/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/posts/</loc>
+    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/posts/dear-jane/</loc>
+    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/posts/oh-alice/</loc>
+    <lastmod>2018-02-09T12:32:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/posts/a-poem/</loc>
+    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/tags/blog/</loc>
+    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://turbohustle.xyz/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://turbohustle.xyz/tags/classic/</loc>
+    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/tags/code/</loc>
+    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/tags/poem/</loc>
+    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/tags/story/</loc>
+    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/tags/</loc>
+    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turbohustle.xyz/</loc>
+    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
