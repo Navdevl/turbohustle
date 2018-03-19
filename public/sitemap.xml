@@ -3,88 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://turbohustle.xyz/posts/long-form-post/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <loc>http://localhost:1313/itemized/item1/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/posts/code-poetry/</loc>
-    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+    <loc>http://localhost:1313/itemized/item2/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/about/</loc>
-    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+    <loc>http://localhost:1313/itemized/item3/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/posts/</loc>
-    <lastmod>2018-02-13T12:21:57-05:00</lastmod>
+    <loc>http://localhost:1313/itemized/item4/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/posts/dear-jane/</loc>
-    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+    <loc>http://localhost:1313/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/posts/oh-alice/</loc>
-    <lastmod>2018-02-09T12:32:12-05:00</lastmod>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/posts/a-poem/</loc>
-    <lastmod>2018-02-01T12:35:11-05:00</lastmod>
+    <loc>http://localhost:1313/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/tags/blog/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <loc>http://localhost:1313/blog/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/categories/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/tags/classic/</loc>
-    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/tags/code/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <loc>http://localhost:1313/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/gallery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://turbohustle.xyz/tags/poem/</loc>
-    <lastmod>2018-02-13T13:56:12-05:00</lastmod>
+    <loc>http://localhost:1313/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/tags/story/</loc>
-    <lastmod>2018-02-11T12:34:41-05:00</lastmod>
+    <loc>http://localhost:1313/itemized/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/tags/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <loc>http://localhost:1313/categories/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://turbohustle.xyz/</loc>
-    <lastmod>2018-03-08T20:18:53-05:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

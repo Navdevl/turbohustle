@@ -1,58 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Turbo Hustle</title>
-    <link>https://turbohustle.xyz/tags/</link>
-    <description>Recent content in Tags on Turbo Hustle</description>
+    <title>Tags on Turbohustle</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Turbohustle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="https://turbohustle.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blog</title>
-      <link>https://turbohustle.xyz/tags/blog/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>https://turbohustle.xyz/tags/blog/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Classic</title>
-      <link>https://turbohustle.xyz/tags/classic/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://turbohustle.xyz/tags/classic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://turbohustle.xyz/tags/code/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
-      
-      <guid>https://turbohustle.xyz/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poem</title>
-      <link>https://turbohustle.xyz/tags/poem/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>https://turbohustle.xyz/tags/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Story</title>
-      <link>https://turbohustle.xyz/tags/story/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
-      
-      <guid>https://turbohustle.xyz/tags/story/</guid>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
     </item>
     
