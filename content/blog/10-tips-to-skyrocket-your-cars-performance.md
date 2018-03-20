@@ -3,7 +3,7 @@ author = "Sanjiv Raj"
 categories = ["engine"]
 tags = ["tutorial"]
 date = "2018-03-19"
-description = "Emphasizing the art of motor sports in the way it deserves. Boost your horses to experience the lap of honor"
+description = "Bored of your stock performance? Here are some hacks to revitalize your ride performance and to enhance the drivability."
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
@@ -14,7 +14,9 @@ type = "post"
 +++
 
 # Introduction 
-Bored of your stock performance here are some hacks to revitalize your ride performance and to enhance the drivability. When it comes to additional torque, People are ready to spend thousands of bucks to an EFI tuner and other kind of performance garages. But with the lack of knowledge on these actual stuffs may lead to ruin your car or end up with some expensive lessons. So it is important to know what is actually done in a performance garage to proliferate those additional horses. And this post is all about the major performance mods and will help you in providing a better understanding of stuffs. 
+Bored of your stock performance? Here are some hacks to revitalize your ride performance and to enhance the drivability. 
+
+When it comes to additional torque, people are ready to spend thousands of bucks to an EFI tuner and other kind of performance garages. But with the lack of knowledge on these actual stuffs may lead to ruin your car or end up with some expensive lessons. So it is important to know what is actually done in a performance garage to proliferate those additional horses. And this post is all about the major performance mods and will help you in providing a better understanding of stuffs. 
 
 Here are the 10 Tips to skyrocket your car’s performance
 
