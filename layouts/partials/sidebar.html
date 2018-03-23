@@ -6,11 +6,11 @@
     {{ $pic := .Site.Params.intro.pic }}
     {{ with $pic.src }}
       {{ if $pic.circle }}
-        <a href='{{"/" | relURL}}'><img src="{{ . | relURL }}" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
+        <img src="{{ . | relURL }}" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" />
       {{ else if $pic.imperfect }}
-        <a href='{{"/" | relURL}}' class="logo"><img src="{{ . | relURL }}" alt="{{ $pic.alt }}" /></a>
+        <img src="{{ . | relURL }}" alt="{{ $pic.alt }}" />
       {{ else }}
-        <a href='{{"/" | relURL}}'><img src="{{ . | relURL }}" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
+        <img src="{{ . | relURL }}" width="{{ $pic.width }}" alt="{{ $pic.alt }}" />
       {{ end }}
     {{ end }}
     {{ with .Site.Params.intro }}
