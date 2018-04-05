@@ -1,6 +1,6 @@
 +++
 author = "Sanjiv Raj"
-categories = ["engine"]
+categories = ["Engine"]
 tags = ["tutorial"]
 date = "2018-03-19"
 description = "Bored of your stock performance? Here are some hacks to revitalize your ride performance and to enhance the drivability."
