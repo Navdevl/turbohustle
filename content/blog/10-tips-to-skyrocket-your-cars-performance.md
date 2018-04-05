@@ -81,3 +81,14 @@ If the exhaust system provides a unconstrained path for the exhaust gases to the
 A sticky tires may cause wonders while cornering and provides the driver with a great control over the vehicle at different driving conditions. Investing money on good tires will actually help you in carrying the power output produced by your engine on to the road or tarmac where it as to be necessary. It is necessary to realize sole connection between a rider and the unforgiving asphalt is a thin, pliable hoop of rubber encircling the wheel.
 
 
+## 9. Brake it without Breaking
+{{< img-post path="date" file="brake-it-without-breaking.jpg" alt="Brake it without Breaking" >}}
+
+
+Having a better braking system strengthens the guts to resolute and accelerate your asphalt to its ultimate limit as you have something secured to rely on. High Performance Braking rotors has a better cooling effect and is capable of reducing the braking distance. Every time when a corner is ahead of you, a good braking system can move your braking marker more further improving lap times.
+
+
+# Conclusion
+
+These are my knowledge resources on skyrocketting your car performance. If you have any more suggestions, please comment below and we can discuss over it. Untill then, Sanjiv Raj signing off. *wink wink* 
+
