@@ -3,13 +3,6 @@ title = "About TurboHustle"
 date = "2014-04-09"
 +++
 
-<style type="text/css">
-  p {
-    font-size: 1.2em;
-    line-height: 2.5em;
-  }
-</style>
-
 <b style="font-size:2em;">Turbo Hustle </b> was made as an YouTube channel in the year of 2017 with a prime motto of sharing knowledge on different performance mods done in automobiles. And now we are here providing an online platform for car enthusiasts in the form of blogging which we find would provoke even more curiosity for the audience. 
 
 Turbo Hustle will be working in making some engaging automobile contents to its readers and also looking forward to advertise contents to reach the right audience. Hope these series of blogs provides some interesting and new things to the world.
