@@ -24,7 +24,7 @@ Here are the 10 Tips to skyrocket your car’s performance
 ## 1. No Too Rich or Too Lean : Balance is the key when it comes to AFR 
 {{< img-post path="date" file="not-too-rich-or-too-lean.jpg" alt="No Too Rich or Too Lean" >}}
 
-Most stock manufacturer tune the engine for having a good gas mileage and to overcome the strict emission norms by slaughtering the valuable power output. Balance is the key when it comes to AFR (Air Fuel Ratio). Leaning out the mixture too much will lead to cause of additional cylinder peak temperature and cause damage to the engines whereas too rich will lead to un-burned fuel which is the worst thing you can do to your engine. If AFR crossing the extreme limits, may will lead to no combustion at all. So tuning your Engine’s AFR in between RBT ( Richest Mixture for Best Torque) and LBT (Leanest Mixture for Best Torque) will provide good performance and a slightly leaner ratio around 15.6:1 can provide you with a best gas mileage.
+Most stock manufacturer tune the engine for having a good gas mileage and to overcome the strict emission norms by slaughtering the valuable power output. Balance is the key when it comes to AFR (Air Fuel Ratio). Leaning out the mixture too much will lead to cause of additional cylinder peak temperature and cause damage to the engines whereas too rich will lead to un-burned fuel which is the worst thing you can do to your engine. If AFR crossing the extreme limits, will lead to no combustion at all. So tuning your Engine’s AFR in between RBT ( Richest Mixture for Best Torque) and LBT (Leanest Mixture for Best Torque) will provide good performance and a slightly leaner ratio around 15.6:1 can provide you with a best gas mileage.
 
 
 ## 2. Fuel Injectors which matches the needs 
@@ -43,7 +43,7 @@ After having a air and fuel setup which is able to pump out more power from your
 ## 4. Increase octane rating and the results are astonishing
 {{< img-post path="date" file="increase-octane-rating-and-the-results-are-astonishing.jpg" alt="Increase octane rating and the results are astonishing" >}}
 
-Logically speaking Increasing octane numbers cannot increases engine torque. Octane rating of the fuel determines how good the fuel can withstand the phenomenon of knocking. To make it simple the fuel with 92 octane rating can be aggressively  all the way near MBT than the fuel with 87 octane rating. Using a racing fuel which has a octane rating of 100 instantly adds up to +20 HP or even more upon the engine. But with addition of horses comes the addition of cost. Racing fuel generally is more than 300% the cost of premium gasoline.
+Logically speaking Increasing octane numbers cannot increases engine torque. Octane rating of the fuel determines how good the fuel can withstand the phenomenon of knocking. To make it simple the fuel with 92 octane rating can be aggressively mapped all the way near MBT than the fuel with 87 octane rating. Using a racing fuel which has a octane rating of 100 instantly adds up to +20 HP or even more upon the engine. But with addition of horses comes the addition of cost. Racing fuel generally is more than 300% the cost of premium gasoline.
 
 
 
@@ -51,7 +51,7 @@ Logically speaking Increasing octane numbers cannot increases engine torque. Oct
 {{< img-post path="date" file="calm-down-your-boost-with-an-intercooler.jpg" alt="Calm Down your boost with an Intercooler " >}}
 
 
-Making Boost pressure is fine but without producing a cooling effect will result in Knocking or detonation in the engines at higher loads. This will make your ignition timing to get retarded in order to avoid knock and slaughtering the power producing capacity of the engine. So high capacity turbo’s should be accompanied with high performance intercooler.  
+Making Boost pressure is fine but without producing a cooling effect will result in Knocking or detonation in the engines at higher loads. This will make your ignition timing to get retarded in order to avoid knock and slaughtering the power producing capacity of the engine. So high capacity turbo’s should be accompanied with high performance intercooler. Both Water-to-Air and Air-to-Air Intercoolers has their own discrete Pros and Cons. So its up to the individual to select the right one
 
 
 ## 6. Empower your Engine to Breathe Well
@@ -78,17 +78,21 @@ If the exhaust system provides a unconstrained path for the exhaust gases to the
 {{< img-post path="date" file="the-cheapest-way-of-improving-drivability.jpg" alt="The cheapest way of Improving Drivability" >}}
 
 
-A sticky tires may cause wonders while cornering and provides the driver with a great control over the vehicle at different driving conditions. Investing money on good tires will actually help you in carrying the power output produced by your engine on to the road or tarmac where it as to be necessary. It is necessary to realize sole connection between a rider and the unforgiving asphalt is a thin, pliable hoop of rubber encircling the wheel.
+A sticky tires may cause wonders while cornering and provides the driver with a great control over the vehicle at different driving conditions. Investing money on good tires will actually help you in carrying the power output produced by your engine on to the road or tarmac where it as to be necessary. It is necessary to realize sole connection between a rider and the unforgiving asphalt is a thin, pliable hoop of rubber encircling the wheel. Its important to have a exhaust piping which does not sacrifice the velocity for the sake of capacity and vice versa. Lowering the pipe diameter will increase the Exhaust velocity and Increasing the pipe diameter will increase the exhaust flow capacity. Balance is the key here.
 
 
-## 9. Brake it without Breaking
+## 10. Brake it without Breaking
 {{< img-post path="date" file="brake-it-without-breaking.jpg" alt="Brake it without Breaking" >}}
 
 
-Having a better braking system strengthens the guts to resolute and accelerate your asphalt to its ultimate limit as you have something secured to rely on. High Performance Braking rotors has a better cooling effect and is capable of reducing the braking distance. Every time when a corner is ahead of you, a good braking system can move your braking marker more further improving lap times.
+Having a better braking system strengthens the guts to resolute and accelerate your asphalt to its ultimate limit as you have something secured to rely on. High Performance Braking rotors has a better cooling effect and is capable of reducing the braking distance. Every time when a corner is ahead of you, a good braking system can move your braking marker more further improving lap times. This will actually help you to take much more speed into the corners.
 
 
 # Conclusion
 
 These are my knowledge resources on skyrocketting your car performance. If you have any more suggestions, please comment below and we can discuss over it. Untill then, Sanjiv Raj signing off. *wink wink* 
+
+<br>
+## Reference:
+Designing and Tuning High-Performance Fuel Injection Systems by **Greg Banish**
 
