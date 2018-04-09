@@ -71,14 +71,14 @@ Nitrous oxide does not break down into nitrogen and oxygen until it reaches 572 
 {{< img-post path="date" file="a-unconstrained-exhaust-system.jpg" alt="A Unconstrained Exhaust System" >}}
 
 
-If the exhaust system provides a unconstrained path for the exhaust gases to the atmosphere it will make the engine breathe efficiently. And the major advantage of having a high performance aftermarket exhaust is the weight reduction as compared to the stock ones. The stock ones is heavy due to the material used and to manage the overall cost of the vehicle.
+If the exhaust system provides a unconstrained path for the exhaust gases to the atmosphere it will make the engine breathe efficiently. And the major advantage of having a high performance aftermarket exhaust is the weight reduction as compared to the stock ones. The stock ones is heavy due to the material used and to manage the overall cost of the vehicle. Its important to have a exhaust piping which does not sacrifice the velocity for the sake of capacity and vice versa. Lowering the pipe diameter will increase the Exhaust velocity and Increasing the pipe diameter will increase the exhaust flow capacity. Balance is the key here.
 
 
 ## 9. The cheapest way of Improving Drivability
 {{< img-post path="date" file="the-cheapest-way-of-improving-drivability.jpg" alt="The cheapest way of Improving Drivability" >}}
 
 
-A sticky tires may cause wonders while cornering and provides the driver with a great control over the vehicle at different driving conditions. Investing money on good tires will actually help you in carrying the power output produced by your engine on to the road or tarmac where it as to be necessary. It is necessary to realize sole connection between a rider and the unforgiving asphalt is a thin, pliable hoop of rubber encircling the wheel. Its important to have a exhaust piping which does not sacrifice the velocity for the sake of capacity and vice versa. Lowering the pipe diameter will increase the Exhaust velocity and Increasing the pipe diameter will increase the exhaust flow capacity. Balance is the key here.
+A sticky tires may cause wonders while cornering and provides the driver with a great control over the vehicle at different driving conditions. Investing money on good tires will actually help you in carrying the power output produced by your engine on to the road or tarmac where it as to be necessary. It is necessary to realize sole connection between a rider and the unforgiving asphalt is a thin, pliable hoop of rubber encircling the wheel.
 
 
 ## 10. Brake it without Breaking
