@@ -18,3 +18,16 @@ Turbo Hustle will be working in making some engaging automobile contents to its 
 This is Sanjiv Raj. I am a recent graduate of "Mechanical Engineering" fond of Motorsports which made me to pursue a learning process from Mercedes Benz on latest trends on Automotive Mechatronics. Now, here I am expressing myself in the form of digital media. Good luck.
 
 > Never regret. So never miss an opportunity.
+
+<hr>
+
+# The Dev-Maniac
+<br>
+
+![Naveen Honest Raj](/img/main/naveen_honest_raj.jpg)
+
+This is Naveen Honest Raj a.k.a navdevl. Lead AI & Blockchain Engineer [@Skcript](https://www.skcript.com). Cooking good quality code is my hobby. 
+
+Follow me [@nav_devl](https://twitter.com/nav_devl)
+
+> You. Me. Us. God.
