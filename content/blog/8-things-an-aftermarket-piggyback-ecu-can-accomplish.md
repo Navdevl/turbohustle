@@ -10,7 +10,6 @@ featuredpath = "img/2018/04/"
 linktitle = ""
 title = "8 Things an Aftermarket Piggyback ECU can accomplish"
 type = "post"
-draft=true
 +++
 
 # Introduction 
