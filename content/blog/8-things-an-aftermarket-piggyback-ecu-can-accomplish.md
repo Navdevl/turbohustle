@@ -65,3 +65,14 @@ A impeccable start is key to the success in any racing events. Being too hard in
 
 
 Flat foot shifting enables to floor the gas pedal even at the time of gear shifts which allows to maintain the boost in the Turbo and have a greater power welcoming the next gear without any time lag. The Flat foot shifting enables smooth gear shifts by retarding the ignition timing and so reducing the torque for the small interval of time. As it does not drop down the boost provided by the turbo it serves to be a valuable upgrade for manual shifting cars. Using a flat foot shifting system can serve you better than an Anti Lag system which produces Turbo failures.
+
+
+
+## 8. TRACTION CONTROL
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_D8829E279F04E125F2EAAC8B14A1C6C28B6107A6BDAAFA1C0CD2D6AE19EE454D_1524153988926_GettyImages-509232053.jpg)
+
+
+The prime necessity of an Traction control system is to provide the necessary traction to the car even on broken roads or slippery tarmac. Traction control system performs this prerequisite by limiting the engine power to an extent in limiting tire slip. As soon as the vehicle detects the wheel slip, the engine power is reduced either by a fast responding strategy by means of controlling Ignition timing or by an delayed strategy by means of controlling air entering the engine. There is a considerable amount of wheel slip when you accelerate out of the corner, so with different levels of traction control its possible to get different degrees of slip.
+
+# Conclusion
+Hence with these features we can safely conclude that increasing horse power is not the only thing an Piggy back ECU is capable of.
