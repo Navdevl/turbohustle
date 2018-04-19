@@ -20,7 +20,8 @@ Leaving behind some of the deceivers who promises to add +35 or so HP, We will b
 So here are some beneficial features that an handy Piggyback can provide you with
 
 ## 1. Acceleration Enrichment
-{{< img-post path="date" file="not-too-rich-or-too-lean.jpg" alt="No Too Rich or Too Lean" >}}
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_D8829E279F04E125F2EAAC8B14A1C6C28B6107A6BDAAFA1C0CD2D6AE19EE454D_1523556704074_d9c4700036c68cc53558da0e348cb3fc.jpg)
+
 
 The Volumetric efficiency mapping holds good for static and steady state conditions. When there is a tip-in condition i.e During a sudden acceleration, The rider twists the throttle, the throttle valve opens immediately causing more air to enter into the manifolds crumbling away the fuel film in port injection engines. This makes the engine to run lean momentarily which causes a loss in torque. A rider opening the throttle needs more torque so this loss in torque cannot be allowed. So some Enrichment mappings are done by considering the TPS (Throttle position) rate and MAP ( Manifold Absolute Pressure) rate and adds excess fuel to compensate the lean AFR and so improving drivability. This process of adding additional fuel in the perfect instance where it is most needed is known as acceleration enrichment. This allows the power to be delivered in a linear way.
 
