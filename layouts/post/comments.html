@@ -1,7 +1,9 @@
 {{ if ne .Site.DisqusShortname "" }}
+  {{ if eq .Title .Site.Title }} 
     <article class="post">
         {{ template "_internal/disqus.html" . }}
     </article>
+  {{ end }}
 {{ else if .Site.Params.staticman.staticman }}
     <article class="post">
       {{ .Render "staticman" }}

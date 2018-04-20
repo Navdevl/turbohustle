@@ -61,7 +61,7 @@ canonifyURLs = true
   customJS             = ["default"]
 
   # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
+  disable_highlight = true # set to true to disable Highlight
   highlightjsVersion = "9.11.0"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "css"]
@@ -101,7 +101,7 @@ canonifyURLs = true
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
-    width     = "75px"
+    width     = "100px"
     alt       = "Turbo Hustle"
 
 [params.postAmount]
