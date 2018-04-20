@@ -33,13 +33,14 @@
   <meta itemprop=image content="{{ . | absURL }}">
   <meta name=twitter:image:src content="{{ . | absURL }}">
   <meta property=og:image content="{{ . | absURL }}">
+  <meta property=og:image:url content="{{ . | absURL }}">
   <meta itemprop=image content="{{ . | absURL }}">
   <meta name=twitter:image content="{{ . | absURL }}">
   {{ else }} 
 {{ with .Site.Params.og_image }}
   <meta itemprop=image content="{{ . | absURL }}">
   <meta name=twitter:image:src content="{{ . | absURL }}">
-  <meta property=og:image content="{{ . | absURL }}">
+  <meta property=og:image:url content="{{ . | absURL }}">
   <meta itemprop=image content="{{ . | absURL }}">
   <meta name=twitter:image content="{{ . | absURL }}">
   {{ end }} 
