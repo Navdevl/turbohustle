@@ -4,10 +4,7 @@ categories = ["Engine"]
 tags = ["tutorial"]
 date = "2018-03-19"
 description = "Break through the obscure performance of your engine by adapting these vital upgrades."
-featured = "10-tips-to-skyrocket-your-cars-performance.jpg"
-featuredalt = "Pic 3"
-featuredpath = "img/2018/03/"
-linktitle = ""
+featured = "img/2018/03/10-tips-to-skyrocket-your-cars-performance.jpg"
 title = "10 Tips to Skyrocket Your Car’s Performance"
 type = "post"
 
