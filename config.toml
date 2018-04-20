@@ -1,4 +1,3 @@
-
 baseurl = "https://turbohustle.xyz/"
 languageCode = "en-us"
 title = "Turbo Hustle"
@@ -13,13 +12,16 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Turbo Hustle"
+  description          = "Emphasizing the art of motor sports in the way it deserves. Boost your horses to experience the lap of honor"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Turbo Hustle"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
-# Optional Params
+  og_image = "/img/og.jpg"
+
+  basecolor = "#FD5401"
+
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = true
   # Sets RSS icons to appear on the sidebar with the social media buttons
@@ -91,7 +93,7 @@ canonifyURLs = true
 
   paragraph = "Emphasizing the art of motor sports in the way it deserves. Boost your horses to experience the lap of honor"
 
-  about     = "An Engineer, with a soft spot ♥️ for Motor sports marking the beginning of expressing himself. Since Motorsports turns out to be an epitome of art its mandatory to honor it."
+  about = "An Engineer, with a soft spot ♥️ for Motor sports marking the beginning of expressing himself. Since Motorsports turns out to be an epitome of art its mandatory to honor it."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -103,6 +105,9 @@ canonifyURLs = true
     imperfect = false
     width     = "100px"
     alt       = "Turbo Hustle"
+
+[author]
+  name = "Sanjiv Raj"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.

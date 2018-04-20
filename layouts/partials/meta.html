@@ -1,0 +1,103 @@
+{{ $Author := .Site.Author.name }}
+
+<!-- Basic Meta Tags -->
+{{ with .Title }}
+  <title>{{ . }}</title>
+  <meta property="og:title" content="{{ . }}">
+  <meta name="twitter:title" content="{{ . }}">
+  <meta itemprop="name" content="{{ . }}">
+{{ else }} 
+{{ with .Site.Params.title }}
+  <title>{{ . }}</title>
+  <meta property="og:title" content="{{ . }}">
+  <meta name="twitter:title" content="{{ . }}">
+  <meta itemprop="name" content="{{ . }}">
+  {{ end }} 
+{{ end }} 
+
+{{ with .Description }}
+    <meta name="description" content="{{ . }}"> 
+    <meta property="og:description" content="{{ . }}">
+    <meta name="twitter:description" content="{{ . }}">
+    <meta itemprop="description" content="{{ . }}">
+  {{ else }} 
+{{ with .Site.Params.description }}
+    <meta name="description" content="{{ . }}"> 
+    <meta property="og:description" content="{{ . }}">
+    <meta name="twitter:description" content="{{ . }}">
+    <meta itemprop="description" content="{{ . }}">
+  {{ end }} 
+{{ end }} 
+
+{{ with .Params.featured }}
+  <meta itemprop="image" content="{{ . }}">
+  <meta property="og:image" content="{{ . }}">
+  <meta name="twitter:image" content="{{ . }}">
+  {{ else }} 
+{{ with .Site.Params.og_image }}
+  <meta itemprop="image" content="{{ . }}">
+  <meta property="og:image" content="{{ . }}">
+  <meta name="twitter:image" content="{{ . }}">
+  {{ end }} 
+{{ end }} 
+
+<!-- URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- RSS -->
+{{ if .RSSLink }}
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ end }}
+
+<!-- Color -->
+<meta name="msapplication-TileColor" content="{{ .Site.Params.basecolor }}">
+<meta name="theme-color" content="{{ .Site.Params.basecolor }}">
+
+<!-- Author -->
+<meta name="author" content="{{ $Author }}">
+
+<!-- Schema -->
+
+<!-- Facebook Open Graph -->
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+<meta property="article:author" content="{{ $Author }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{ .Site.Author.twitter }}">
+<meta name="twitter:creator" content="@{{ .Site.Author.twitter }}">
+<meta name="twitter:url" content="{{ .Permalink }}">
+
+<!-- Blog Article Specific Meta Tags -->
+{{ if eq .Type "blog" }}
+<meta itemprop="wordCount" content="{{ .WordCount }}">
+<meta itemprop="inLanguage" content="{{ .Site.LanguageCode }}">
+<meta itemprop="datePublished" content="{{ dateFormat "2006-01-02T15:04:05-07:00" (default .Date (.PublishDate)) }}">
+<meta itemprop="dateModified" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}" />
+{{ end }}
+
+<!-- Favicons -->
+<link rel="shortcut icon" href="/images/favicon/favicon.ico" />
+<link rel="icon" type="image/x-icon" sizes="16x16 32x32" href="/images/favicon/favicon.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/favicon-152-precomposed.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/favicon-144-precomposed.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/favicon-120-precomposed.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/favicon-114-precomposed.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/favicon-180-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/favicon-72-precomposed.png">
+<link rel="apple-touch-icon" href="/images/favicon/favicon-57.png">
+<link rel="icon" href="/images/favicon/favicon-32.png" sizes="32x32">
+<meta name="msapplication-TileImage" content="/images/favicon/favicon-144.png">
+<link rel="icon" sizes="192x192" href="/images/favicon/favicon-192.png">
+
+<!-- Static Meta -->
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
