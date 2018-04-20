@@ -1,4 +1,4 @@
-baseurl = "https://turbohustle.xyz/"
+baseURL = "https://turbohustle.xyz/"
 languageCode = "en-us"
 title = "Turbo Hustle"
 preserveTaxonomyNames = true
