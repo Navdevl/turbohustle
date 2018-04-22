@@ -90,5 +90,5 @@ A MotoGP bike which pumps out almost 250 horses has an tire contact patch to the
 
 Engines revving up to 18000 RPM can produce a sound louder than 125 dB. The safe time limit of hearing this loud orchestra is 8 minutes but hearing this for almost an hour may lead to damage in hearing. So MotoGP riders are made safer by using good soundproof helmets which makes the rider concentrate on the track
 
-CONCLUSION
+## CONCLUSION
 Hope this post would have shown some glimpse over the true potential of the riders and their machines. If you have any suggestions comment below so that it will be put into discussion. 
