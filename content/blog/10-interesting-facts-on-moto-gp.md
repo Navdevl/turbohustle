@@ -2,7 +2,7 @@
 author = "Sanjiv Raj"
 categories = ["Engine"]
 tags = ["tutorial"]
-date = "2018-04-23"
+date = "2018-04-22"
 description = "MotoGP proves to be an supreme motor sport event in the litre class segment for almost a century. Yet there are some astounding facts which are less likely to hear. Here i am sharing some of the interesting facts about MotoGP"
 featured = "img/2018/04/10-interesting-facts-on-moto-gp.jpg"
 title = "10 Interesting facts on MotoGP"
