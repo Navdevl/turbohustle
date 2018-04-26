@@ -1,14 +1,14 @@
 +++
 author = "Sanjiv Raj"
 categories = ["Engine"]
-tags = ["tutorial"]
-date = "2018-04-19"
+date = "2018-04-19T00:00:00Z"
 description = "Its not all about boosting the horses there are much more things a plug and play Piggyback ECU can deliver with ease. Get to know some of the astounding features which can be delivered by an Piggyback ECU."
 featured = "img/2018/04/8-things-an-aftermarket-piggyback-ecu-can-accomplish.jpg"
+tags = ["tutorial"]
 title = "8 Things an Aftermarket Piggyback ECU can accomplish"
 type = "post"
-+++
 
++++
 # Introduction 
 
 Leaving behind some of the deceivers who promises to add +35 or so HP, We will be discussing on the true science behind chip tuning. So what it actually does? A Piggyback ECU gathers data about the engine, vehicle and ambient conditions from the stock ECU through various sensors and alters the values sent to the actuators. A key benefit in exploiting a Piggyback ECU is that it can be easily switched to the stock settings if necessary. There are some performance chips which hacks the information from sensors, alters it and sends it to the ECU for Improving performance. 

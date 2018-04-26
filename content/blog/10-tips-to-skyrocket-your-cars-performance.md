@@ -1,15 +1,14 @@
 +++
 author = "Sanjiv Raj"
 categories = ["Engine"]
-tags = ["tutorial"]
-date = "2018-03-19"
+date = "2018-03-19T00:00:00Z"
 description = "Break through the obscure performance of your engine by adapting these vital upgrades."
 featured = "img/2018/03/10-tips-to-skyrocket-your-cars-performance.jpg"
+tags = ["tutorial"]
 title = "10 Tips to Skyrocket Your Car’s Performance"
 type = "post"
 
 +++
-
 # Introduction 
 Bored of your stock performance? Here are some hacks to revitalize your ride performance and to enhance the drivability. 
 

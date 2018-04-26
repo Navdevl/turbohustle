@@ -1,8 +1,8 @@
 +++
+date = "2014-04-09T00:00:00Z"
 title = "About TurboHustle"
-date = "2014-04-09"
-+++
 
++++
 <b style="font-size:1.5em;">Turbo Hustle </b> was made as an YouTube channel in the year of 2017 with a prime motto of sharing knowledge on different performance mods done in automobiles. And now we are here providing an online platform for car enthusiasts in the form of blogging which we find would provoke even more curiosity for the audience. 
 
 Turbo Hustle will be working in making some engaging automobile contents to its readers and also looking forward to advertise contents to reach the right audience. Hope these series of blogs provides some interesting and new things to the world.
