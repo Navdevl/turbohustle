@@ -1,4 +1,3 @@
 # Redirect domain aliases to primary domain
 https://turbohustle.xyz/* https://turbohustle.com/:splat 301!
 http://turbohustle.xyz/* https://turbohustle.com/:splat 301!
-turbohustle.xyz/* turbohustle.com/:splat 301!
