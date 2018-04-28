@@ -38,3 +38,5 @@ After the removal of the cylinder heads, removing damper pulley and the connecti
 Mechanical measurements plays a vital role in rebuilding any of the engine since engine is all about precision and accuracy. Check the crankshaft and the connecting rod for the diameter and necessary machining must be done so that necessary bearing can also be added to it. The cylinder bore should be measured for the roundness so the measuring process is carried out in both lateral direction and transverse direction. After the measurements are finished the desired dimensions are brought up by honing process.
 
 ## 6. REPLACE PISTON AND RINGS![](/img/2018/04/DSC_06891-1080x723.jpg)
+
+Piston and piston rings can be replaced with the required dimensions and in needed crown shape. Forged pistons and set the piston rings in proper order and necessary offset. Connect the piston to the connecting rods with the piston pin and insert them into the crankcase with the aid of ring compressors.
