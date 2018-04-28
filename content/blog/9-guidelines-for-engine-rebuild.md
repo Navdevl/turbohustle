@@ -18,5 +18,3 @@ type = "post"
 Engines losses its power in the matter of certain years and you feel like it's not the same engine that it used to be. All you need to do is to rebuild your engine to regain its lost power. But engine rebuilding doesn't seem to be an easy-to-do job it needs a high level of accuracy and knowledge of engines. Failing in this may result in expensive lessons. A single wrong move in setting the proper timing is enough to make your engine into a scrap. So here are some guidelines which will help you in engine rebuilding.
 
 ## 1. ORGANIZING WORKPLACE
-
-![](/img/2018/04/13 - 6.jpg)
