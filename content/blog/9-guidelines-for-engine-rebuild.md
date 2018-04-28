@@ -29,6 +29,6 @@ Now its time to remove those electrical connectors and other accessories out of 
 
 After removing the additional engine components, its time to enter the core of the engine. Remove the timing gear from the crankshaft drive gear and mark the necessary so its easier to set the engine timing. After the camshafts are removed move on with the valves. With the help of a valve compressing device try to remove the retaining lock thereby removing the cylinder head valves. Verify the flatness of valves and ensure that the dimensions are not much deviated. The camshafts are also verified for the necessary lift they produce with measuring cam lobes.
 
-## 4. ![](/img/2018/04/FH12APR_REPALT_01-2.jpg)
+## 4. STRIP THE CRANKCASE![](/img/2018/04/741dfbeb52925043c9edc68bbf8dc209--fox-ford-mustangs.jpg)
 
-Now its time to remove those electrical connectors and other accessories out of your engine. Make sure the electric connectors are labeled in a way it can make fixing it easier. Other external components such as starter, alternator etc must safely disconnect from the engine. Disconnect intake air supply and pressurized fuel lines. Spark plugs and injectors can be removed and label them with respect to cylinder numbers. Changing injectors between the cylinders need adaptation in engine control modules. Failing to do so will reduce the accuracy of fuel delivery.
+After the removal of the cylinder heads, removing damper pulley and the connecting rod bolts from the crankshaft will be an ideal move. After removing the connecting rod bolts remove the piston with the connecting rod from the top of the crankcase. Remove the bearings of the crankshaft and remove the crankshaft from the crankcase. If the engine is with a counter shaft remove it from the crankcase. 
