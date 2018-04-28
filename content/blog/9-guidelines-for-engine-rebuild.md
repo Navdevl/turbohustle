@@ -24,3 +24,11 @@ The first step towards a proper rebuild is to plan each and every move and shoul
 ## 2. REMOVE OTHER ACCESSORIES![](/img/2018/04/FH12APR_REPALT_01-2.jpg)
 
 Now its time to remove those electrical connectors and other accessories out of your engine. Make sure the electric connectors are labeled in a way it can make fixing it easier. Other external components such as starter, alternator etc must safely disconnect from the engine. Disconnect intake air supply and pressurized fuel lines. Spark plugs and injectors can be removed and label them with respect to cylinder numbers. Changing injectors between the cylinders need adaptation in engine control modules. Failing to do so will reduce the accuracy of fuel delivery.
+
+## 3. UNFASTEN CYLINDER HEAD![](/img/2018/04/1108dp_13 gateway_to_power gasket_removal.jpg)
+
+After removing the additional engine components, its time to enter the core of the engine. Remove the timing gear from the crankshaft drive gear and mark the necessary so its easier to set the engine timing. After the camshafts are removed move on with the valves. With the help of a valve compressing device try to remove the retaining lock thereby removing the cylinder head valves. Verify the flatness of valves and ensure that the dimensions are not much deviated. The camshafts are also verified for the necessary lift they produce with measuring cam lobes.
+
+## 4. ![](/img/2018/04/FH12APR_REPALT_01-2.jpg)
+
+Now its time to remove those electrical connectors and other accessories out of your engine. Make sure the electric connectors are labeled in a way it can make fixing it easier. Other external components such as starter, alternator etc must safely disconnect from the engine. Disconnect intake air supply and pressurized fuel lines. Spark plugs and injectors can be removed and label them with respect to cylinder numbers. Changing injectors between the cylinders need adaptation in engine control modules. Failing to do so will reduce the accuracy of fuel delivery.
