@@ -37,6 +37,4 @@ After the removal of the cylinder heads, removing damper pulley and the connecti
 
 Mechanical measurements plays a vital role in rebuilding any of the engine since engine is all about precision and accuracy. Check the crankshaft and the connecting rod for the diameter and necessary machining must be done so that necessary bearing can also be added to it. The cylinder bore should be measured for the roundness so the measuring process is carried out in both lateral direction and transverse direction. After the measurements are finished the desired dimensions are brought up by honing process.
 
-## 6. ![](/img/2018/04/FH12APR_REPALT_01-2.jpg)
-
-Now its time to remove those electrical connectors and other accessories out of your engine. Make sure the electric connectors are labeled in a way it can make fixing it easier. Other external components such as starter, alternator etc must safely disconnect from the engine. Disconnect intake air supply and pressurized fuel lines. Spark plugs and injectors can be removed and label them with respect to cylinder numbers. Changing injectors between the cylinders need adaptation in engine control modules. Failing to do so will reduce the accuracy of fuel delivery. 
+## 6. REPLACE PISTON AND RINGS![](/img/2018/04/DSC_06891-1080x723.jpg)
