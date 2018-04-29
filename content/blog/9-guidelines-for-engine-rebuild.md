@@ -39,4 +39,12 @@ Mechanical measurements plays a vital role in rebuilding any of the engine since
 
 ## 6. REPLACE PISTON AND RINGS![](/img/2018/04/DSC_06891-1080x723.jpg)
 
-Piston and piston rings can be replaced with the required dimensions and in needed crown shape. Forged pistons and set the piston rings in proper order and necessary offset. Connect the piston to the connecting rods with the piston pin and insert them into the crankcase with the aid of ring compressors.
+Piston and piston rings can be replaced with the required dimensions and in needed crown shape. Forged pistons and set the piston rings in proper order and necessary offset. Connect the piston to the connecting rods with the piston pin and insert them into the crankcase with the aid of ring compressors. Before installing the pistons clean the crankcase and lubricate them with engine oil.
+
+## 7. REPLACE GASKETS![](/img/2018/04/TGSP62_1.jpg)
+
+Replace the old gaskets with the new ones and make sure its sits on the clean surface. If there are some residual gaskets present remove it before installing with a new one. Spending valuable money on gaskets is really necessary since gasket leaks can cause many major problems. Worn out cylinder head gaskets may lead to major problems like mixing of coolant and engine oil. And will also lead to compression loss which decreases the power output of the engine.
+
+## 8. INSTALL IN REVERSE ORDER![](/img/2018/04/stonum-automotive-engine-transmission-repair-longmont.jpg)
+
+asdjlakjd
