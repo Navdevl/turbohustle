@@ -45,6 +45,8 @@ Piston and piston rings can be replaced with the required dimensions and in need
 
 Replace the old gaskets with the new ones and make sure its sits on the clean surface. If there are some residual gaskets present remove it before installing with a new one. Spending valuable money on gaskets is really necessary since gasket leaks can cause many major problems. Worn out cylinder head gaskets may lead to major problems like mixing of coolant and engine oil. And will also lead to compression loss which decreases the power output of the engine.
 
-## 8. INSTALL IN REVERSE ORDER![](/img/2018/04/stonum-automotive-engine-transmission-repair-longmont.jpg)
+## 8. ENGINE TIMING
 
-asdjlakjd
+![](/img/2018/04/mdmp_0809_33_z engine_rebuild timing_chain.jpg)
+
+Setting proper engine timing is a significant process in any of engine rebuilding process. There are two types of timing in an engine they are Ignition timing and Cam timing with respect to crankshaft positions. Ignition timing must be adjusted with the distributor with the help of proper firing order. Using a timing light its possible to find when the spark occurs  and correct it to the desired timing using crankshaft angle position. In most of the cases the engine's cam timing is set at the ignition TDC of the first cylinder. The nomenclature may vary for different car manufacturers. 
