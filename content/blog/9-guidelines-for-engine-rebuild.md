@@ -27,7 +27,7 @@ Now its time to remove those electrical connectors and other accessories out of 
 
 ## 3. UNFASTEN CYLINDER HEAD![](/img/2018/04/1108dp_13 gateway_to_power gasket_removal.jpg)
 
-After removing the additional engine components, its time to enter the core of the engine. Remove the timing gear from the crankshaft drive gear and mark the necessary so its easier to set the engine timing. After the camshafts are removed move on with the valves. With the help of a valve compressing device try to remove the retaining lock thereby removing the cylinder head valves. Verify the flatness of valves and ensure that the dimensions are not much deviated. The camshafts are also verified for the necessary lift they produce with measuring cam lobes.
+After removing the additional engine components, its time to enter the core of the engine. Remove the timing gear from the crankshaft drive gear and mark the necessary things so its easier to set the engine timing. After the camshafts are removed move on with the valves. With the help of a valve compressing device try to remove the retaining lock thereby removing the cylinder head valves. Verify the flatness of valves and ensure that the dimensions are not much deviated. The camshafts are also verified for the necessary lift they produce with measuring cam lobes.
 
 ## 4. STRIP THE CRANKCASE![](/img/2018/04/741dfbeb52925043c9edc68bbf8dc209--fox-ford-mustangs.jpg)
 
