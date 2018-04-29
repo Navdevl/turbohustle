@@ -31,11 +31,11 @@ After removing the additional engine components, its time to enter the core of t
 
 ## 4. STRIP THE CRANKCASE![](/img/2018/04/741dfbeb52925043c9edc68bbf8dc209--fox-ford-mustangs.jpg)
 
-After the removal of the cylinder heads, removing damper pulley and the connecting rod bolts from the crankshaft will be an ideal move. After removing the connecting rod bolts remove the piston with the connecting rod from the top of the crankcase. Remove the bearings of the crankshaft and remove the crankshaft from the crankcase. If the engine is with a counter shaft remove it from the crankcase.
+After the removal of the cylinder heads, removing damper pulley and the connecting rod bolts from the crankshaft will be an ideal move. After removing the connecting rod bolts remove the piston with the connecting rod from the top of the crankcase. Remove the bearings of the crankshaft and remove the crankshaft from the crankcase. If the engine is with a countershaft remove it from the crankcase.
 
 ## 5. MACHINING AND MEASUREMENTS![](/img/2018/04/1.8tenginebearings400500hp.jpg)
 
-Mechanical measurements plays a vital role in rebuilding any of the engine since engine is all about precision and accuracy. Check the crankshaft and the connecting rod for the diameter and necessary machining must be done so that necessary bearing can also be added to it. The cylinder bore should be measured for the roundness so the measuring process is carried out in both lateral direction and transverse direction. After the measurements are finished the desired dimensions are brought up by honing process.
+Mechanical measurements play a vital role in rebuilding engine since engine seems to be all about precision and accuracy. Check the crankshaft and the connecting rod for the diameter and necessary machining must be done so that necessary bearing can also be added to it. The cylinder bore should be measured for the roundness so the measuring process is carried out in both lateral direction and transverse direction. After the measurements are finished the desired dimensions are brought up by honing process.
 
 ## 6. REPLACE PISTON AND RINGS![](/img/2018/04/DSC_06891-1080x723.jpg)
 
@@ -43,10 +43,18 @@ Piston and piston rings can be replaced with the required dimensions and in need
 
 ## 7. REPLACE GASKETS![](/img/2018/04/TGSP62_1.jpg)
 
-Replace the old gaskets with the new ones and make sure its sits on the clean surface. If there are some residual gaskets present remove it before installing with a new one. Spending valuable money on gaskets is really necessary since gasket leaks can cause many major problems. Worn out cylinder head gaskets may lead to major problems like mixing of coolant and engine oil. And will also lead to compression loss which decreases the power output of the engine.
+Replace the old gaskets with the new ones and make sure it sits on the clean surface. If there are some residual gaskets present remove it before installing with a new one. Spending valuable money on gaskets is really necessary since gasket leaks can cause many major problems. Worn out cylinder head gaskets may lead to major problems like mixing of coolant and engine oil. And will also lead to compression loss which decreases the power output of the engine.
 
 ## 8. ENGINE TIMING
 
 ![](/img/2018/04/mdmp_0809_33_z engine_rebuild timing_chain.jpg)
 
-Setting proper engine timing is a significant process in any of engine rebuilding process. There are two types of timing in an engine they are Ignition timing and Cam timing with respect to crankshaft positions. Ignition timing must be adjusted with the distributor with the help of proper firing order. Using a timing light its possible to find when the spark occurs  and correct it to the desired timing using crankshaft angle position. In most of the cases the engine's cam timing is set at the ignition TDC of the first cylinder. The nomenclature may vary for different car manufacturers. 
+Setting proper engine timing is a significant process in any of engine rebuilding process. There are two types of timing in an engine they are Ignition timing and Cam timing with respect to crankshaft positions. Ignition timing must be adjusted with the distributor with the help of proper firing order. Using a timing light its possible to find when the spark occurs and correct it to the desired timing using crankshaft angle position. In most of the cases, the engine's cam timing is set at the ignition TDC of the first cylinder. The nomenclature may vary for different car manufacturers. 
+
+## 9. INSTALL IN REVERSE ORDER![](/img/2018/04/stonum-automotive-engine-transmission-repair-longmont.jpg)
+
+After setting the proper engine timing your engine is all set to go. Now its time to install all other engine components in the exact reverse order as it was. Replace all the gaskets with the new ones and set all the needed electrical components and fix the engine and install it in the car.
+
+## CONCLUSION
+
+There is no feeling in the world better than seeing your engine run after cranking it for the first time. Correct the air-fuel ratios with the help of lambda sensor. And that is it Your car is all set to go...
