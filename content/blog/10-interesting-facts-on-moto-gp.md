@@ -21,7 +21,7 @@ The maximum displacement of the handcrafted engine to be used is 1000 cc and nec
 
 
 ## 2. MAXIMIZING LEAN ANGLES BEYOND SCIENCE
-{{< img-post path="date" file="maximizing-lean-angles-beyond-science.png" alt="Maximizing Lean Angles Beyond Science" >}}
+{{< img-post path="date" file="maximizing-lean-angles-beyond-science.jpg" alt="Maximizing Lean Angles Beyond Science" >}}
 
 Its not all about riding the motorcycle over 300 Kmph in a straight, its also equally important to maintain speeds in the corners. With all the exceptional technologies, cornering forces and the tires which are best for business, A MotoGP bike pulls out an staggering lean angle of 64 degrees. The lean angle is measured using a gyroscopic sensor and much more sensors assists the riders to get very close to their target lean angle. By adding up these technologies, external forces and the exceptional motoring skills of the rider its possible to get the 64 degrees mark. But still couldn’t figure out how Marc Marquez managed a 68 degrees lean ???
 
