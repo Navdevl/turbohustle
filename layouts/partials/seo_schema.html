@@ -15,7 +15,8 @@
   "creator": "{{ range .Site.Author }}{{ . }}{{ end }}",
   "publisher": {
     "@type": "Organization",
-    "name": "Turbo Hustle"
+    "name": "Turbo Hustle",
+    "logo": "{{ .Site.Params.og_image | absURL }}"
   },
   "accountablePerson": "{{ range .Site.Author }}{{ . }}{{ end }}",
   "copyrightHolder": "{{ range .Site.Author }}{{ . }}{{ end }}",
