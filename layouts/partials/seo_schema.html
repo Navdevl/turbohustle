@@ -20,6 +20,6 @@
   "dateModified": "{{ .Date }}",
   "url": "{{ .Permalink }}",
   "wordCount": "{{ .WordCount }}",
-  "image": "{{ .Site.Params.og_image }}"
+  "image": "{{ .Site.Params.og_image | absURL }}"
 }
 </script>
