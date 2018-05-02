@@ -16,7 +16,13 @@
   "publisher": {
     "@type": "Organization",
     "name": "Turbo Hustle",
-    "logo": "{{ .Site.Params.og_image | absURL }}"
+    "logo": {
+      "@type": "ImageObject",
+      "name": "TurboHustle Logo",
+      "width": "100",
+      "height": "100",
+      "url": "https://turbohustle.com/img/main/logo.png"
+    }
   },
   "accountablePerson": "{{ range .Site.Author }}{{ . }}{{ end }}",
   "copyrightHolder": "{{ range .Site.Author }}{{ . }}{{ end }}",
