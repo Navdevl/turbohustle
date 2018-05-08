@@ -1,3 +1,5 @@
 .DS_Store
 
 /public
+staticBak
+plugin/node_modules/*
