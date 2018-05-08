@@ -10,6 +10,10 @@ preserveTaxonomyNames = true
 title = "Turbo Hustle - Emphasizing the art of motor sports"
 [author]
 name = "Sanjiv Raj"
+[imaging]
+anchor = "smart"
+quality = 40
+resampleFilter = "box"
 [[menu.main]]
 identifier = "fa fa-envelope-o"
 name = "Contact"
@@ -90,18 +94,3 @@ instagram = "_sanjiv_r_"
 quora = "Sanjiv-Raj-2"
 whatsapp = "+919789804349"
 youtube = "channel/UCZkDdXuAVjXjaT2s9hug8Xw"
-
-[imaging]
-# Default resample filter used for resizing. Default is Box,
-# a simple and fast averaging filter appropriate for downscaling.
-# See https://github.com/disintegration/imaging
-resampleFilter = "box"
-
-# Defatult JPEG quality setting. Default is 75.
-quality = 40
-
-# Anchor used when cropping pictures.
-# Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
-# Smart Cropping is content aware and tries to find the best crop for each image.
-# Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-anchor = "smart"
