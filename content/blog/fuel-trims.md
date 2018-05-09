@@ -18,3 +18,9 @@ Considering the strict emission norms into account there are so much things an e
 ### Operating voltage of lambda sensors
 
 Lambda sensors operate between 0.1 V and 0.9 V averaging 0.45 V at stoichiometric ratio in which the catalytic converters works fine. Oxygen sensors produce less voltage say near 0.1 or 0.2 V in the lean conditions and produces a voltage of 0.8 to 0.9 at rich conditions. From the voltage produced ECM gets to know the mixture information on Air fuel ratio.
+
+### Open Loop and closed loop
+
+The ECM operates the engine follows open loop fueling in the time of starting the engine till it reaches certain operating temperature and in the time of wide open throttle. Since the engine demands a rich air fuel ratio in these situations, its undesirable to use a closed loop fueling which is capable of providing only stoichiometric air fuel ratio. A open loop just follows the fueling tables which are prescribed in the Performance MAPs and does not calibrate fueling based on the output of lambda sensors. 
+
+Once the engine reaches its operating temperature the ECM switches to closed loop fueling strategy. In which the engine is forced to run in stoichiometric condition by using Short term fuel trims (STFT) and Long term fuel trims (LTFT) from the information gathered from lambda sensors.
