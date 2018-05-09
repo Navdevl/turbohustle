@@ -13,6 +13,8 @@ title = "Understanding Fuel Trims"
 type = "post"
 
 +++
-Catalytic converters will work good and in a efficient manner only when the air fuel ratio oscillates from slightly rich to slightly lean with an average as stoichiometric. Before getting things in detail a basic knowledge in some these following stuffs are vital.
+Considering the strict emission norms into account there are so much things an engine control module must perform to Catalytic converters will work good and in a efficient manner only when the air fuel ratio oscillates from slightly rich to slightly lean with an average as stoichiometric. Before getting things in detail a basic knowledge in some these following stuffs are vital.
 
 ### Operating voltage of lambda sensors
+
+Lambda sensors operate between 0.1 V and 0.9 V averaging 0.45 V at stoichiometric ratio in which the catalytic converters works fine. Oxygen sensors produce less voltage say near 0.1 or 0.2 V in the lean conditions and produces a voltage of 0.8 to 0.9 at rich conditions. From the voltage produced ECM gets to know the mixture information on Air fuel ratio.
