@@ -41,4 +41,8 @@ This blog will take us to the strategy involved in the diagnosis of engine probl
 
 #### 1. VACUUM LEAK DOWNSTREAM MAF SENSOR
 
-If there is a vacuum leak downstream the MAF sensor there is an excess of air entering the engine which is not metered. So a vacuum leak will make the engine run leaner. So a positive fuel trim is made in STFT and is followed by LTFT. Since at idling the throttle valve is almost closed the vacuum leak plays an huge difference in air metering whereas in WOT conditions the effect of vacuum leak is not so great since the pressure in the intake manifold is almost atmospheric pressure. So you can find that the 
+If there is a vacuum leak downstream the MAF sensor there is an excess of air entering the engine which is not metered. So a vacuum leak will make the engine run leaner. In order to compensate this lean condition a positive fuel trim is made in STFT and is followed by LTFT. Since at idling the throttle valve is almost closed the vacuum leak plays an huge difference in air metering whereas in WOT conditions the effect of vacuum leak is not so great since the pressure in the intake manifold is almost atmospheric pressure. From this we can speculate that there is a huge value of LTFT in idling and this number decreases and get close to zero as the throttle valve is opened
+
+#### 2. INSUFFICIENT FUEL SUPPLY
+
+Assume that there is a improper fuel pump which could not meet the fuel requirements so there is a prevailing lean condition. So the lean condition is compensated with a positive fuel trim. When idling the effect of fuel pump is not so great compared to partial and full load conditions. This means the fuel trim is minimum in the lower load ranges and increases with the increase in the load
