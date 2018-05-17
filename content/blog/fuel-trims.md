@@ -36,3 +36,9 @@ As the name indicates this is a short term calibration of fueling. Whenever the 
 Long term fuel trims are made in order to neutralize the STFT. As a change is made in the STFT and if this is continued for a certain amount of time the changes are made to LTFT so that the trim made in STFT goes to zero again. For example consider STFT has a value of 3% for a certain amount of time then this value is changed to 3% in LTFT so there is no more need to change in STFT. Both STFT and LTFT has a certain limit after which there is no more room for additional calibration.
 
 ### DIAGNOSIS USING LTFT AND STFT
+
+This blog will take us to the strategy involved in the diagnosis of engine problems with two common examples
+
+#### 1. VACUUM LEAK DOWNSTREAM MAF SENSOR
+
+If there is a vacuum leak downstream the MAF sensor there is an excess of air entering the engine which is not metered. So a vacuum leak will make the engine run leaner. So a positive fuel trim is made in STFT and is followed by LTFT. Since at idling the throttle valve is almost closed the vacuum leak plays an huge difference in air metering whereas in WOT conditions the effect of vacuum leak is not so great since the pressure in the intake manifold is almost atmospheric pressure. So you can find that the 
