@@ -17,6 +17,8 @@ Considering the strict emission norms into account there are so much things an e
 
 ### Operating voltage of lambda sensors
 
+![](/img/2018/05/lambda operating voltage.jpg)
+
 Lambda sensors operate between 0.1 V and 0.9 V averaging 0.45 V at stoichiometric ratio in which the catalytic converters works fine. Oxygen sensors produce less voltage say near 0.1 or 0.2 V in the lean conditions and produces a voltage of 0.8 to 0.9 at rich conditions. From the voltage produced ECM gets to know the mixture information on Air fuel ratio.
 
 ### Open Loop and closed loop
@@ -29,9 +31,13 @@ Now its time to get to know about STFT and LTFT in detail and to have some knowl
 
 ### SHORT TERM FUEL TRIM (STFT)
 
+![](/img/2018/05/stft.jpg)
+
 As the name indicates this is a short term calibration of fueling. Whenever the AFR goes out of stoichiometric ratio the fuel trim changes the values in percentage. If the AFR is lean than stoichiometric ratio then a positive percentage of fuel trim is provided so the injectors extend the period of opening to enrich the fuel. Likewise when the AFR is rich than stoichiometric a negative value is provided in order to lean out the mixture. This is a instantaneous change for change in the values of lambda sensor. A value of  +/- 5% is absolutely normal for short term fuel trims.
 
 ### LONG TERM FUEL TRIM (LTFT)
+
+![](/img/2018/05/LTFT.jpg)
 
 Long term fuel trims are made in order to neutralize the STFT. As a change is made in the STFT and if this is continued for a certain amount of time the changes are made to LTFT so that the trim made in STFT goes to zero again. For example consider STFT has a value of 3% for a certain amount of time then this value is changed to 3% in LTFT so there is no more need to change in STFT. Both STFT and LTFT has a certain limit after which there is no more room for additional calibration.
 
@@ -41,8 +47,12 @@ This blog will take us to the strategy involved in the diagnosis of engine probl
 
 #### 1. VACUUM LEAK DOWNSTREAM MAF SENSOR
 
+![](/img/2018/05/vacuum leak.jpg)
+
 If there is a vacuum leak downstream the MAF sensor there is an excess of air entering the engine which is not metered. So a vacuum leak will make the engine run leaner. In order to compensate this lean condition a positive fuel trim is made in STFT and is followed by LTFT. Since at idling the throttle valve is almost closed the vacuum leak plays an huge difference in air metering whereas in WOT conditions the effect of vacuum leak is not so great since the pressure in the intake manifold is almost atmospheric pressure. From this we can speculate that there is a huge value of LTFT in idling and this number decreases and get close to zero as the throttle valve is opened
 
 #### 2. INSUFFICIENT FUEL SUPPLY
+
+![](/img/2018/05/FUEL PUMP.jpg)
 
 Assume that there is a improper fuel pump which could not meet the fuel requirements so there is a prevailing lean condition. So the lean condition is compensated with a positive fuel trim. When idling the effect of fuel pump is not so great compared to partial and full load conditions. This means the fuel trim is minimum in the lower load ranges and increases with the increase in the load
