@@ -13,3 +13,4 @@ title = "10 Auxiliary maps for optimal tuning"
 type = "post"
 
 +++
+### 1. Injection compensation for air temperature
