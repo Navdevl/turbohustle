@@ -19,4 +19,4 @@ The density of air decreases as there is a increase in temperature. So the fuel 
 
 ### 2. Ignition correction for air temperature
 
-Since higher temperature of air is likely to have more chance of producing knock its fine to sacrifice some torque by retarding the ignition timing at high intake air temperature.
+Since higher temperature of air is likely to have more chance of producing knock its fine to sacrifice some torque by retarding the ignition timing at high intake air temperature. And it is not really necessary to advance the ignition timing at lower intake air temperatures.
