@@ -35,4 +35,4 @@ Mostly high impedance injectors are used by OEM as the current flow remain low s
 
 ### 6. Ignition Dwell time depending on Supply Voltage
 
-The ignition dwell time is the amount of time spent to charge the coils before discharging at spark plugs. Having a high ignition dwell time within the design limits will produce a strong spark which is good for combustion. On downside having a too high dwell time may lead to the melting of the coil housing and having a very low dwell time leads to a weak spark which can lead to misfire conditions.
+The ignition dwell time is the amount of time spent to charge the coils before discharging at spark plugs. Having a high ignition dwell time within the design limits will produce a strong spark which is good for combustion. On downside having a too high dwell time may lead to the melting of the coil housing and having a very low dwell time leads to a weak spark which can lead to misfire conditions. The current in the coil is dependent on the supply voltage and time its actuated. Its important to calibrate ignition dwell time with regards to the supply voltage.
