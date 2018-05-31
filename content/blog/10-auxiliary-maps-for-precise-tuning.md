@@ -22,3 +22,5 @@ The density of air decreases as there is a increase in temperature. So the fuel 
 Since higher temperature of air is likely to have more chance of producing knock its fine to sacrifice some torque by retarding the ignition timing at high intake air temperature. And it is not really necessary to advance the ignition timing at lower intake air temperatures.
 
 ### 3. Injection compensation for engine coolant temperature
+
+When the engine is cold or at low engine coolant temperature, the fuel gets deposited on the inlet port so in order to overcome this its necessary to inject more fuel into the combustion chamber
