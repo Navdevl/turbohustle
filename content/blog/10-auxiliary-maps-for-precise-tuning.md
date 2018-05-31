@@ -29,8 +29,10 @@ When the engine is cold or at low engine coolant temperature, the fuel gets depo
 
 When engine is very hot or at a very high engine coolant temperature, the tendency of knocking increases especially at higher loads. So its necessary to retard timing at higher water temperature. Peak exhaust temperature may also damage the exhaust components so its very much essential to calibrate the engine by considering engine coolant temperature.
 
-### 5. Injection timing depending on battery voltage
+### 5. Injection timing depending on supply voltage
 
 Mostly high impedance injectors are used by OEM as the current flow remain low so the driver circuit remains cool which increases durability. The driver current is normally a square wave with different pulse width commonly known as PWM signals. There is always a time delay between the actuation of driver current and the opening of injector nozzle which is known as opening delay. Since due to some amount of inductance the injector is opened even after the driver current as stopped which is known as the closing delay. The difference between the opening delay and closed delay is known as the injector offset. This injector offset increases with the decrease in battery voltage. This offset may not seem to be an significant figure but it plays a vital role at low engine load and RPM. 
 
-### 6. Ignition Dwell time 
+### 6. Ignition Dwell time depending on Supply Voltage
+
+The ignition dwell time is the amount of time spent to charge the coils before discharging at spark plugs. Having a high ignition dwell time within the design limits will produce a strong spark which is good for combustion. On downside having a too high dwell time may lead to the melting of the coil housing and having a very low dwell time leads to a weak spark which can lead to misfire conditions.
