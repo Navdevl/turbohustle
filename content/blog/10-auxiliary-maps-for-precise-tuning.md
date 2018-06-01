@@ -40,3 +40,7 @@ The ignition dwell time is the amount of time spent to charge the coils before d
 ### 7. Acceleration Enrichment
 
 The Volumetric efficiency mapping holds good for static and steady state conditions. When there is a tip-in condition i.e During a sudden acceleration, The rider blips the throttle, the throttle valve opens immediately causing more air to enter into the manifolds crumbling away the fuel film in port injection engines. This makes the engine to run lean momentarily which causes a loss in torque. A rider opening the throttle needs more torque so this loss in torque can be contradicting. So some Enrichment mappings are done by considering the TPS (Throttle position) rate and MAP ( Manifold Absolute Pressure) rate and adds excess fuel to compensate the lean AFR and so improving drivability. This process of adding additional fuel in the perfect instance where it is most needed is known as acceleration enrichment.
+
+### CONCLUSION
+
+The above mentioned auxiliary maps are important in consideration to improve vehicle drivability. Before calibrating these auxiliary maps its necessary to fine tune the engine's fuel maps and ignition maps.
