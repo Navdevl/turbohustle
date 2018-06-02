@@ -9,7 +9,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 tags = []
-title = "10 Auxiliary maps for optimal tuning"
+title = "7 Auxiliary maps for optimal tuning"
 type = "post"
 
 +++
