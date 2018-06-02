@@ -15,6 +15,8 @@ type = "post"
 +++
 ### 1. Injection compensation for air temperature
 
+### ![](/img/2018/06/1111.jpg)
+
 The density of air decreases as there is a increase in temperature. So the fuel delivered must be less at higher intake temperatures and vice versa. Since at higher temperatures the air tends to move faster the compensation of injection must be less than half of the density correction. Compensation must be done for different load ranges namely Idle or Low load, Partial Load and High Load conditions. Its recommended to use a slightly less or no reduction of fuel at higher load conditions since having a rich mixture can reduce the peak temperature in combustion chamber.
 
 ### 2. Ignition correction for air temperature
