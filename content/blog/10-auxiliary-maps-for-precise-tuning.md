@@ -27,9 +27,13 @@ Since higher temperature of air is likely to have more chance of producing knock
 
 ### 3. Injection compensation for engine coolant temperature
 
+![](/img/2018/06/3333.jpg)
+
 When the engine is cold or at low engine coolant temperature, the fuel gets deposited on the inlet port so in order to overcome this its necessary to inject more fuel into the combustion chamber. During low engine temperatures, the three way catalytic converter cannot operate efficiently and so its vital to bring them to operating temperature very quickly. Normally most catalytic converters are effective only after the temperature rises above 250 degrees Celsius.
 
 ### 4. Ignition correction for engine coolant temperature
+
+![](/img/2018/06/4444.jpg)
 
 When engine is very hot or at a very high engine coolant temperature, the tendency of knocking increases especially at higher loads. So its necessary to retard timing at higher water temperature. Peak exhaust temperature may also damage the exhaust components so its very much essential to calibrate the engine by considering engine coolant temperature.
 
