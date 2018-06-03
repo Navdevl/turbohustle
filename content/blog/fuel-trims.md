@@ -30,7 +30,7 @@ Now its time to get to know about STFT and LTFT in detail and to have some knowl
 
 ### SHORT TERM FUEL TRIM (STFT)
 
-![](/img/2018/05/stft.jpg)
+![](/img/2018/06/2.jpg)
 
 As the name indicates this is a short-term calibration of fueling. Whenever the AFR goes out of stoichiometric ratio the fuel trim changes the values in percentage. If the AFR is lean than stoichiometric ratio then a positive percentage of fuel trim is provided so the injectors extend the period of opening to enrich the fuel. Likewise when the AFR is rich than stoichiometric a negative value is provided in order to lean out the mixture. This is an instantaneous change for the change in the values of lambda sensor. A value of  +/- 5% is absolutely normal for short term fuel trims.
 
