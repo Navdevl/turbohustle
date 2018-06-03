@@ -16,7 +16,7 @@ Considering the strict emission norms into account there are so many things an e
 
 ### Operating voltage of lambda sensors
 
-![](/img/2018/05/lambda operating voltage.jpg)
+![](/img/2018/06/3.jpg)
 
 Lambda sensors operate between 0.1 V and 0.9 V averaging 0.45 V at the stoichiometric ratio in which the catalytic converters work fine. Oxygen sensors produce less voltage say near 0.1 or 0.2 V in the lean conditions and produces a voltage of 0.8 to 0.9 at rich conditions. From the voltage produced ECM gets to know the mixture information on Air fuel ratio.
 
