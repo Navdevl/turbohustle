@@ -36,7 +36,7 @@ As the name indicates this is a short-term calibration of fueling. Whenever the 
 
 ### LONG TERM FUEL TRIM (LTFT)
 
-![](/img/2018/05/LTFT.jpg)
+![](/img/2018/06/1.jpg)
 
 Long-term fuel trims are made in order to neutralize the STFT. As a change is made in the STFT and if this is continued for a certain amount of time the changes are made to LTFT so that the trim made in STFT goes to zero again. For example, consider STFT has a value of 3% for a certain amount of time then this value is changed to 3% in LTFT so there is no more need to change in STFT. Both STFT and LTFT has a certain limit after which there is no more room for additional calibration.
 
