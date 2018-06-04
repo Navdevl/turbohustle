@@ -53,4 +53,4 @@ The Volumetric efficiency mapping holds good for static and steady state conditi
 
 The above mentioned auxiliary maps are important in consideration to improve vehicle drivability. Before calibrating these auxiliary maps its necessary to fine tune the engine's fuel maps and ignition maps.
 
-**P.S** : The values in the tables are for understanding purposes and are appropriate.
+**P.S** : The values in the tables are for underg
