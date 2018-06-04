@@ -41,7 +41,7 @@ When the engine is very hot or at a very high engine coolant temperature, the te
 
 ![](/img/2018/06/5555.jpg)
 
-Mostly high impedance injectors are used by OEM as the current flow remain low so the driver circuit remains cool which increases durability. The driver current is normally a square wave with different pulse width commonly known as PWM signals. There is always a time delay between the actuation of driver current and the opening of injector nozzle which is known as the opening delay. Since due to some amount of inductance the injector is opened even after the driver current as stopped which is known as the closing delay. The difference between the opening delay and closed delay is known as the injector offset. This injector offset increases with the decrease in battery voltage. This offset may not seem to be a significant figure but it plays a vital role at low engine load and RPM..
+Mostly high impedance injectors are used by OEM as the current flow remain low so the driver circuit remains cool which increases durability. The driver current is normally a square wave with different pulse width commonly known as PWM signals. There is always a time delay between the actuation of driver current and the opening of injector nozzle which is known as the opening delay. Since due to some amount of inductance the injector is opened even after the driver current as stopped which is known as the closing delay. The difference between the opening delay and closed delay is known as the injector offset. This injector offset increases with the decrease in battery voltage. This offset may not seem to be a significant figure but it plays a vital role at low engine load and RPM.
 
 ### 6. Ignition Dwell time depending on Supply Voltage
 
