@@ -39,13 +39,19 @@ When the engine is very hot or at a very high engine coolant temperature, the te
 
 ### 5. Injection timing depending on supply voltage
 
+![](/img/2018/06/5555.jpg)
+
 Mostly high impedance injectors are used by OEM as the current flow remain low so the driver circuit remains cool which increases durability. The driver current is normally a square wave with different pulse width commonly known as PWM signals. There is always a time delay between the actuation of driver current and the opening of injector nozzle which is known as the opening delay. Since due to some amount of inductance the injector is opened even after the driver current as stopped which is known as the closing delay. The difference between the opening delay and closed delay is known as the injector offset. This injector offset increases with the decrease in battery voltage. This offset may not seem to be a significant figure but it plays a vital role at low engine load and RPM..
 
 ### 6. Ignition Dwell time depending on Supply Voltage
 
+![](/img/2018/06/6666.jpg)
+
 The ignition dwell time is the amount of time spent to charge the coils before discharging at spark plugs. Having a high ignition dwell time within the design limits will produce a strong spark which is good for combustion. On downside having a too high dwell time may lead to the melting of the coil housing and having a very low dwell time leads to a weak spark which can lead to misfire conditions. The current in the coil is dependent on the supply voltage and time its actuated. It's important to calibrate ignition dwell time with regards to the supply voltage.
 
 ### 7. Acceleration Enrichment
+
+![](/img/2018/06/7777.jpg)
 
 The Volumetric efficiency mapping holds good for static and steady-state conditions. When there is a tip-in condition i.e During a sudden acceleration, The rider blips the throttle, the throttle valve opens immediately causing more air to enter into the manifolds crumbling away from the fuel film in port injection engines. This makes the engine to run lean momentarily which causes a loss of torque. A rider opening the throttle needs more torque so this loss in torque can be contradicting. So some Enrichment mappings are done by considering the TPS (Throttle position) rate and MAP ( Manifold Absolute Pressure) rate and adds excess fuel to compensate the lean AFR and so improving drivability. This process of adding additional fuel in the perfect instance where it is most needed is known as acceleration enrichment.
 
