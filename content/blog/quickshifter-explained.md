@@ -2,7 +2,7 @@
 author = "SANJIV RAJ R"
 categories = [""]
 date = "2018-06-11T17:57:13+00:00"
-description = "Quick shifters are handy when it comes to riding a bike on a track since it makes up-shifts lightening quick. But this is not the only reason you will need a quick shifter, the reason is it's absolutely great to put them in action. Keeping the throttle completely twisted and shifting through the gears without dipping the throttle is the most insane feeling ever."
+description = "QUICK SHIFTERS ARE HANDY WHEN IT COMES TO RIDING A BIKE ON A TRACK SINCE IT MAKES UP-SHIFTS LIGHTENING QUICK. BUT THIS IS NOT THE ONLY REASON YOU WILL NEED A QUICK SHIFTER, THE REASON IS IT'S ABSOLUTELY GREAT TO PUT THEM IN ACTION. KEEPING THE THROTTLE COMPLETELY TWISTED AND SHIFTING THROUGH THE GEARS WITHOUT DIPPING THE THROTTLE IS THE MOST INSANE FEELING EVER."
 draft = true
 featured = "/img/2018/06/A9930224.jpg"
 featuredalt = ""
