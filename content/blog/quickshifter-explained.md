@@ -13,3 +13,4 @@ title = "Quick shifter Explained"
 type = "post"
 
 +++
+Clutch-less gear shifting is done by many riders manually by dipping the throttle precisely during the up-shifts. It requires a great amount 
