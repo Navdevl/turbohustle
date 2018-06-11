@@ -14,3 +14,5 @@ type = "post"
 
 +++
 Clutch-less gear shifting is done by many riders manually by dipping the throttle precisely during the up-shifts. It requires a great amount of practice for a rider to master this skill but having a quick shifter in hand can make this job a lot more easier. Basically when the rider shift gears either the ignition or the injection is switched off precisely so the gear is shifted in a linear fashion.
+
+### Functioning
