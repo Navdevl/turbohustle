@@ -13,3 +13,4 @@ title = "Quickshifter Explained"
 type = "post"
 
 +++
+;ajsdf;l
