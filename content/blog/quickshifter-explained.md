@@ -9,7 +9,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 tags = []
-title = "Quickshifter Explained"
+title = "Quick shifter Explained"
 type = "post"
 
 +++
