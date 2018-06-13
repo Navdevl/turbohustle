@@ -21,8 +21,6 @@ Quick shifter with the help of sensors determines the movement of the gear lever
 
 ### Calibration Factors
 
-Even though it looks a kind of a effortless mechanism, Quick shifter needs to be calibrated well before getting it to use. Calibration of a quick shifter can be done with the software provided by the manufacturer. Some of the key factors for an impeccable functioning are as follows 
+Even though it looks a kind of a effortless mechanism, Quick shifter needs to be calibrated well before getting it to use. Calibration of a quick shifter can be done with the software provided by the manufacturer. Some of the key factors for an impeccable functioning are as follows
 
-#### 1. 
-
- 
+#### 1. Type of shift pressure sensor
