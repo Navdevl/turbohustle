@@ -27,4 +27,9 @@ Even though it looks a kind of a effortless mechanism, Quick shifter needs to be
 
 Generally, bikes with normal shift pattern use a pull type shift sensor for sensing the up-shift whereas bikes with race shift pattern use a push type shift sensor. In race shift pattern the gear lever has to be pressed down for higher gears. Basically, the primary function of shift sensor remains the same which is to trigger the quick shifting function. It's not necessary that every bike with normal shift pattern uses a pull type shift sensor, it is totally dependent on the geometry of the gear lever during an up-shift.
 
-#### 2. 
+#### 2. Sensitivity
+
+1. cut time vs rpm
+2. sleeptime
+3. last gear prediction
+4. quick shifter activation vs TPS
