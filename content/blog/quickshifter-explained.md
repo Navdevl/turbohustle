@@ -24,3 +24,5 @@ Quick shifter with the help of sensors determines the movement of the gear lever
 Even though it looks a kind of a effortless mechanism, Quick shifter needs to be calibrated well before getting it to use. Calibration of a quick shifter can be done with the software provided by the manufacturer. Some of the key factors for an impeccable functioning are as follows
 
 #### 1. Type of shift pressure sensor
+
+Generally bikes with normal shift pattern uses a pull type shift pressure sensor for sensing the up-shift. If a bike has a race shift pattern then its necessary to have an push type shift pressure sensor. In race shift pattern the lever has to be pressed down for higher gears. Basically the primary function of shift pressure sensor is to trigger the quick shifting function

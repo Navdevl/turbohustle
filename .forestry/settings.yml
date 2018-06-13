@@ -4,7 +4,7 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-  blog:
+  content/blog:
     default_front_matter_template: blog
 upload_dir: static/img
 public_path: "/img"
