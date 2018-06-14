@@ -29,6 +29,8 @@ Generally, bikes with normal shift pattern use a pull type shift sensor for sens
 
 #### 2. Sensitivity
 
+Sensitivity is the necessary amount of force to be exerted on the gear lever to trigger the quick shifting function.
+
 1. cut time vs rpm
 2. sleeptime
 3. last gear prediction
