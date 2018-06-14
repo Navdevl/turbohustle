@@ -29,7 +29,7 @@ Generally, bikes with normal shift pattern use a pull type shift sensor for sens
 
 #### 2. Sensitivity
 
-Sensitivity is the necessary amount of force to be exerted on the gear lever to trigger the quick shifting function.
+Sensitivity is the necessary amount of force to be exerted on the gear lever to trigger the quick shifting function. Increasing the sensitivity value means less force is enough to trigger the quick shifter action. If the sensitivity value is less a stronger force is needed to trigger the quick shift action which makes the gear shifts in a refined manner. Since the triggering point is closer to the shifting point when its less sensitive, it results in smooth 
 
 1. cut time vs rpm
 2. sleeptime
