@@ -33,9 +33,12 @@ Sensitivity is the necessary amount of force to be exerted on the gear lever to 
 
 #### 3. Kill time vs RPM
 
-Once the quick shifting action has been triggered, the engine management system relieves the stress in the transmission by enabling either a ignition or injection cut off for a particular period of time which is known as the Cut time or Kill Time. Having a very short kill time may result in the damage of transmission and having a long kill time may lead to abrupt movement of vehicle during shifts. The kill time of the quick shifter should decrease with the increase in Engine RPM. Its better to avoid the quick shifting action at low engine RPM and low engine load conditions.
+Once the quick shifting action has been triggered, the engine management system relieves the stress in the transmission by enabling either a ignition or injection cut off for a particular period of time which is known as the Cut time or Kill Time ( In ms). Having a very short kill time may result in the damage of transmission and having a long kill time may lead to abrupt movement of vehicle during shifts. The kill time of the quick shifter should decrease with the increase in Engine RPM. Its better to avoid the quick shifting action at low engine RPM and low engine load conditions.
 
-#### 4. Quick shifting
+#### 4. Quick shifting sleep time
 
-1. sleeptime
-2. last gear prediction
+After the gear change it is vital to provide the quick shifter a sleep time for about 300 - 500 ms which will prevent false triggering of quick shifting action. And the quick shifting function must also be disabled at the highest gear. An ECM can determine the gear which is presently engaged using the engine speed and the vehicle speed.
+
+#### Conclusion
+
+Thus its important to calibrate quick shifter to its finest setting in accordance with driving conditions.
