@@ -30,10 +30,11 @@ Generally, bikes with normal shift pattern use a pull type shift sensor for sens
 
 Sensitivity is the necessary amount of force to be exerted on the gear lever to trigger the quick shifting function. Increasing the sensitivity value means less force is enough to trigger the quick shifter action. If the sensitivity value is less a stronger force is needed to trigger the quick shift action which makes the gear shifts in a refined manner. Since the triggering point is closer to the shifting point when its less sensitive, it results in smooth transitions.
 
-#### 3. Cut time vs RPM
+#### 3. Kill time vs RPM
 
 Once the quick shifting action has been triggered, the engine management system relieves the stress in the transmission by enabling either a ignition or injection cut off for a particular period of time which is known as the Cut time or Kill Time. Having a very short kill time may result in the damage of transmission and having a long kill time may lead to abrupt movement of vehicle during shifts. The kill time of the quick shifter should decrease with the increase in Engine RPM. Its better to avoid the quick shifting action at low engine RPM and low engine load conditions.
 
-1. cut time vs rpm
-2. sleeptime
-3. last gear prediction
+#### 4. Quick shifting
+
+1. sleeptime
+2. last gear prediction
