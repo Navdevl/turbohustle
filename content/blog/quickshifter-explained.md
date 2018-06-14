@@ -41,4 +41,4 @@ After the gear change it is vital to provide the quick shifter a sleep time for 
 
 #### Conclusion
 
-Thus its important to calibrate quick shifter to its finest setting in accordance with driving conditions.
+Thus its important to calibrate quick shifter to its finest setting in accordance with driving conditions. 
