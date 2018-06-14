@@ -36,4 +36,4 @@ Once the quick shifting action has been triggered, the engine management system 
 
 1. cut time vs rpm
 2. sleeptime
-3. last ge ,,,b,bmbmnbar predictionnbb,m,mn,m
+3. last gear prediction
