@@ -17,4 +17,4 @@ Racing fuels tend to be costlier than premium gasoline. The prime necessity of u
 
 ### History
 
-The water methanol injection dates back to the early 1940's where it was used in the fighter aircraft of World War II . The injection of water methanol pumped out more power from the engine and thus enabling a good take off. Due to the improvements in octane rating of the gasoline the practice of water methanol injection took a halt for a while. But this modification can boost up the octane levels of the normal pump gas with a comparatively less cost. 
+The water methanol injection dates back to the early 1940's where it was used in the fighter aircraft of World War II . The injection of water methanol pumped out more power from the engine and thus enabling a good take off. Due to the improvements in octane rating of the gasoline in the later period the practice of water methanol injection took a halt for a while. But with the ability to improve octane rating of the pump gas, this technique came into picture again as being a best alternative to race fuels. 
