@@ -21,4 +21,6 @@ The water-methanol injection dates back to the early 1940's where it was used in
 
 ### Water Methanol Injection Kit
 
+![](/img/2018/06/811ouuNcK7L._SL1500_.jpg)
+
 #### 1. Tank or reservoir
