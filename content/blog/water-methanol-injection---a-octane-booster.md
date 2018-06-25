@@ -28,3 +28,13 @@ The water-methanol injection dates back to the early 1940's where it was used in
 The water methanol solution must be stored in the tank and should be placed in a location which would be easily accessible. The level sensor indicates the amount of water methanol solution left over to the controller. The mixture works great in the if the ratio of methanol content and water content remains 1:1. As methanol is very hard to find in stores people tend to use winter windshield washer which has 30% methanol and 70% water.
 
 #### 2. Progressive High Pressure Pump
+
+The pump must be corrosion and damage resistant since Methanol is extremely corrosive to aluminum and iron parts. A 200 psi  pump will be great to serve this purpose. Based on the pulse width modulated signals the pump delivers the water methanol solution in a progressive manner. The proper working of the pump is governed by the controller so the system can enter into some fail safe mode if the pump becomes faulty.
+
+#### 3. Injection Nozzles
+
+Based on the capacity of the engine and the target horsepower gain the injection nozzles are selected. The water methanol solution is sprayed in a progressive manner in the intake side of the engine by the pump which is actuated by the controller.
+
+#### 4. Microprocessor
+
+The controller is responsible for the water methanol injection. The controller is capable of providing error codes since a blunder in water methanol injection can cost with a serious engine damage. Some kind of controllers opens the waste-gate to prevent the engine from reaching the boost pressure in case of some setback with the water methanol injection.
