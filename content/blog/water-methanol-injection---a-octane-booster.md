@@ -24,3 +24,7 @@ The water-methanol injection dates back to the early 1940's where it was used in
 ![](/img/2018/06/811ouuNcK7L._SL1500_.jpg)
 
 #### 1. Tank or reservoir
+
+The water methanol solution must be stored in the tank and should be placed in a location which would be easily accessible. The level sensor indicates the amount of water methanol solution left over to the controller. The mixture works great in the if the ratio of methanol content and water content remains 1:1. As methanol is very hard to find in stores people tend to use winter windshield washer which has 30% methanol and 70% water.
+
+#### 2. Progressive High Pressure Pump
