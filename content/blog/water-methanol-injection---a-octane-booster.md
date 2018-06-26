@@ -9,7 +9,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 tags = []
-title = "Water Methanol Injection - An Octane Booster"
+title = "Water Meth Injection - An Octane Booster"
 type = "post"
 
 +++
@@ -17,7 +17,7 @@ Racing fuels tend to be costlier than premium gasoline. The prime necessity of u
 
 ### History
 
-The water-methanol injection dates back to the early 1940's where it was used in the fighter aircraft of World War II. The injection of water-methanol pumped out more power from the engine and thus enabling a good take off. Due to the improvements in octane rating of the gasoline in the later period, the practice of water-methanol injection took a halt for a while. But with the ability to improve octane rating of the pump gas, this technique came into the picture again as being the best alternative to race fuels.
+The water-methanol injection dates back to the early 1940's where it was used in the fighter aircraft of World War II. The injection of water-methanol pumped out more power from the engine and thus enabling a good take off. Due to the improvements in octane rating of the gasoline in the later period, the practice of water-methanol injection took a halt for a while. But with the ability to improve octane rating of the pump gas, this technique came into the picture again as being the best alternative to race fuels. It was also used in Formula 1 racing for a short period of time before being banned for adding to much horsepower.  
 
 ### Water Methanol Injection Kit
 
@@ -38,3 +38,5 @@ Based on the capacity of the engine and the target horsepower gain the injection
 #### 4. Microprocessor
 
 The controller is responsible for the water methanol injection. The controller is capable of providing error codes since a blunder in water methanol injection can cost with a serious engine damage. Some kind of controllers opens the waste-gate to prevent the engine from reaching the boost pressure in case of some setback with the water methanol injection.
+
+### Engine tuning
