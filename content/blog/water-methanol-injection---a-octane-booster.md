@@ -40,3 +40,25 @@ Based on the capacity of the engine and the target horsepower gain the injection
 The controller is responsible for the water methanol injection. The controller is capable of providing error codes since a blunder in water methanol injection can cost with a serious engine damage. Some kind of controllers opens the waste-gate to prevent the engine from reaching the boost pressure in case of some setback with the water methanol injection.
 
 ### Engine tuning
+
+Remember that water-methanol injection does not add power until its tuned to utilize the octane boosting capacity of the fuel. Since methanol is also a kind of fuel, the water-methanol injection will result in making the air fuel ratio rich. The engine pumps out maximum power with an air fuel ratio around 12.5 and the engine may lose the valuable power if the AFR is very rich. Basically having a water-methanol injection with no engine calibration done may lead to lose of power. So here are some steps to fine tune the engine with water-methanol injection
+
+##### Step 1 
+
+Set the base air fuel ratio without water-methanol injection. The air fuel ratio around 12.8 seems to be good. If you think 12.8 is very lean remember that the cooling effect is going to be provided water methanol injection itself.
+
+##### Step 2
+
+Now set the point at which the water methanol injection is to be commenced. Calculate the maximum boost pressure and allow the injection to start when half of the boost pressure is achieved and all the way up to maximum boost pressure.
+
+##### Step 3
+
+Set an appropriate ignition timing and do not be too aggressive with it. It can be advanced in the later stage of tuning process.
+
+##### Step 4
+
+Now its time to set the maximum boost pressure and allow the water methanol injection. Make sure the AFR does not enrich more than 0.8. If it is too rich, change a smaller nozzle and if it less than 0.5 increase probably you need a bigger nozzle.
+
+##### Step 5
+
+After setting the proper AFR calibrating ignition timings is important. Advance the timing by 2 degrees until the power gets reduced or  detonation occurs and retard it by 2 degrees.
