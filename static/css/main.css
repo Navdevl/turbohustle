@@ -2076,6 +2076,13 @@ article.post h4{
 	margin-top: 50px;
 }
 
+article.post h3 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 1em !important;
+}
 
 /* Table */
 
