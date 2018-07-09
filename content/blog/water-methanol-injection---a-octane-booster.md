@@ -3,7 +3,6 @@ author = "Sanjiv Raj R"
 categories = [""]
 date = "2018-06-22T19:11:22+00:00"
 description = "The octane rating of the gasoline increases in response to the injection of methanol in it. And injecting water particles into the intake air charge reduces its temperature. So water and methanol injection prove to be the most cost-effective way to pump out more horses from the engine without spending additional $$$ on race fuels."
-draft = false
 featured = "/img/2018/06/water-meth-new-100.jpg"
 featuredalt = ""
 featuredpath = ""
@@ -17,11 +16,11 @@ Racing fuels tend to be costlier than premium gasoline. The prime necessity of u
 
 ### History
 
-The water-methanol injection dates back to the early 1940's where it was used in the fighter aircraft of World War II. The injection of water-methanol pumped out more power from the engine and thus enabling a good take off. Due to the improvements in octane rating of the gasoline in the later period, the practice of water-methanol injection took a halt for a while. But with the ability to improve octane rating of the pump gas, this technique came into the picture again as being the best alternative to race fuels. It was also used in Formula 1 racing for a short period of time before being banned for adding to much horsepower.  
+The water-methanol injection dates back to the early 1940's where it was used in the fighter aircraft of World War II. The injection of water-methanol pumped out more power from the engine and thus enabling a good take off. Due to the improvements in octane rating of the gasoline in the later period, the practice of water-methanol injection took a halt for a while. But with the ability to improve octane rating of the pump gas, this technique came into the picture again as being the best alternative to race fuels. It was also used in Formula 1 racing for a short period of time before being banned for adding to much horsepower.
 
 ### Water Methanol Injection Kit
 
-![](/img/2018/06/811ouuNcK7L._SL1500_.jpg)
+![](/img/2018/07/2017-02-21_22-22-23.jpg)
 
 #### 1. Tank or reservoir
 
@@ -43,7 +42,7 @@ The controller is responsible for the water methanol injection. The controller i
 
 Remember that water-methanol injection does not add power until its tuned to utilize the octane boosting capacity of the fuel. Since methanol is also a kind of fuel, the water-methanol injection will result in making the air fuel ratio rich. The engine pumps out maximum power with an air fuel ratio around 12.5 and the engine may lose the valuable power if the AFR is very rich. Basically having a water-methanol injection with no engine calibration done may lead to lose of power. So here are some steps to fine tune the engine with water-methanol injection
 
-##### Step 1 
+##### Step 1
 
 Set the base air fuel ratio without water-methanol injection. The air fuel ratio around 12.8 seems to be good. If you think 12.8 is very lean remember that the cooling effect is going to be provided water methanol injection itself.
 
@@ -62,3 +61,11 @@ Now its time to set the maximum boost pressure and allow the water methanol inje
 ##### Step 5
 
 After setting the proper AFR calibrating ignition timings is important. Advance the timing by 2 degrees until the power gets reduced or  detonation occurs and retard it by 2 degrees.
+
+### Element of Danger
+
+As long as everything works fine the water-methanol injection is going to pour out valuable pour at the top end. But a faulty water methanol injection may result in the great danger of engine damage. The air-fuel ratio is tuned to its leaner side and the ignition timings are set very aggressively due to the injection of water-methanol. So if the water-methanol injection does not take place as it should, then there is a very high possibility of engine knock. Advanced Water methanol injection systems are capable of detecting the fault and make the engine to run in some fail-safe modes. The most common method of avoiding engine damage is to open the waste gate of the turbocharger so the engine does not attain the boost pressure which in turn will avoid the initiation of water-methanol injection. Or having different tunes for different operating conditions may also help in avoiding critical situations.
+
+### Conclusion
+
+By implementing water-methanol injection its possible to make the pump gas with a lower octane rating into a racing fuel with high octane rating.
