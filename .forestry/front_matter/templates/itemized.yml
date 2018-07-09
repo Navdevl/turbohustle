@@ -64,3 +64,5 @@ fields:
   type: text
   hidden: false
   default: itemized
+pages:
+- content/blog/gasoline---port-vs-direct-injection.md
