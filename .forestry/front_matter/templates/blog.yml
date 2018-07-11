@@ -3,6 +3,11 @@ label: blog
 hide_body: false
 is_partial: false
 fields:
+- name: featured
+  label: Featured
+  type: file
+  hidden: false
+  default: ''
 - name: author
   label: Author
   type: text
@@ -27,11 +32,6 @@ fields:
 - name: description
   label: Description
   type: textarea
-  hidden: false
-  default: ''
-- name: featured
-  label: Featured
-  type: file
   hidden: false
   default: ''
 - name: title
