@@ -41,6 +41,8 @@ Since direct injection engines operate at approx 350 bar the fuel feed from the 
 
 ### Types of Injector drivers
 
+![](/img/2018/07/GDI.jpg)
+
 **Saturated or High Impedance Driver**
 
 Most of the factory built cars with port fuel injection comes with the saturated type driver which supplies 12 V to the injectors to open as the ECU commands to do it. This is an inexpensive yet a reliable injector driver since it operates at 12 V. Due to its high impedance around 12 to 16 ohm the driver circuit carries a lower current value about 1.5 A. Since it has a lower amperage value the circuit remains cool and is much more reliable. The response time of the fuel injector is considerably higher when compared to the latter. Since it produces a small magnetic field there is a delay in both the opening and closing of the fuel injector. Hence opening and closing delays are to be considered while calculating injector pulse width.
@@ -55,4 +57,4 @@ Most of the OEM port injected engines uses saturated drivers and some of the eng
 
 The vaporized oil from the engine is collected by the Positive crankcase ventilation (PCV) valve and feed to the intake stream. This Deposits oil particle on the intake valves causing the carbon deposits. In port injection engines since the fuel is injected over the intake valves, it produces a cleaning effect on valves. Hence the carbon deposits on the port injection engine valves seem to be in a negligible amount.
 
-Indirect injection engines there is no cleansing effect on the intake valves which leads to excessive carbon deposits on the valves over a period of time. Valve cleaning is an expensive process since it comprises engine overhauling. So in order to avoid such carbon deposits, the vaporized oil is collected by running them through the oil separator and then into the intake stream. The centrifuge can also be used to separate oil from the charge air mixture. 
+Indirect injection engines there is no cleansing effect on the intake valves which leads to excessive carbon deposits on the valves over a period of time. Valve cleaning is an expensive process since it comprises engine overhauling. So in order to avoid such carbon deposits, the vaporized oil is collected by running them through the oil separator and then into the intake stream. The centrifuge can also be used to separate oil from the charge air mixture.
