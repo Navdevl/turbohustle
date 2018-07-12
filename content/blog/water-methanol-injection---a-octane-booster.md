@@ -12,7 +12,7 @@ title = "Water Meth Injection - An Octane Booster"
 type = "post"
 
 +++
-Racing fuels tend to be costlier than premium gasoline. The prime necessity of using a racing fuel is due to its higher octane rating which makes the engine less likely to knock which enables the calibrator to advance to the ignition timing in close proximity with MBT for more torque. Injecting water particles in the intake charge stream converts them into water vapor, thus providing a cooling effect to the intake charge  A general rule of thumb is that an engine will output one percent more horsepower for every 10 degrees intake temperature is decreased.
+Racing fuels tend to be costlier than premium gasoline. The prime necessity of using a racing fuel is due to its higher octane rating which makes the engine less likely to knock which enables the calibrator to advance to the ignition timing in close proximity with MBT for more torque. Injecting water particles in the intake charge stream converts them into water vapor, thus providing a cooling effect to the intake charge. A general rule of thumb is that an engine will output one percent more horsepower for every 10 degrees intake temperature is decreased.
 
 ### History
 
@@ -24,7 +24,7 @@ The water-methanol injection dates back to the early 1940's where it was used in
 
 #### 1. Tank or reservoir
 
-The water methanol solution must be stored in the tank and should be placed in a location which would be easily accessible. The level sensor indicates the amount of water methanol solution left over to the controller. The mixture works great in the if the ratio of methanol content and water content remains 1:1. As methanol is very hard to find in stores people tend to use winter windshield washer which has 30% methanol and 70% water.
+The water methanol solution must be stored in the tank and should be placed in a location which would be easily accessible. The level sensor indicates the amount of water methanol solution left over to the controller. The mixture works great, if the ratio of methanol content and water content remains 1:1. As methanol is very hard to find in stores people tend to use winter windshield washer which has 30% methanol and 70% water.
 
 #### 2. Progressive High Pressure Pump
 
@@ -40,7 +40,7 @@ The controller is responsible for the water methanol injection. The controller i
 
 ### Engine tuning
 
-Remember that water-methanol injection does not add power until its tuned to utilize the octane boosting capacity of the fuel. Since methanol is also a kind of fuel, the water-methanol injection will result in making the air fuel ratio rich. The engine pumps out maximum power with an air fuel ratio around 12.5 and the engine may lose the valuable power if the AFR is very rich. Basically having a water-methanol injection with no engine calibration done may lead to lose of power. So here are some steps to fine tune the engine with water-methanol injection
+Remember that water-methanol injection does not add power until its tuned to utilize the octane boosting capacity of the fuel. Since methanol is also a kind of fuel, the water-methanol injection will result in making the air fuel ratio rich. The engine pumps out maximum power with an air fuel ratio around 12.5 and the engine may lose the valuable power if the AFR is too rich. Basically having a water-methanol injection with no engine calibration done may lead to lose of power. So here are some steps to fine tune the engine with water-methanol injection
 
 ##### Step 1
 
