@@ -39,20 +39,20 @@ The port injection engines operate at a much lesser fuel pressure to a low-press
 
 Since direct injection engines operate at approx 350 bar the fuel feed from the low-pressure pump is again compressed by the high-pressure pump. This high-pressure pump is driven by the lobes in the camshaft. Since higher pressure is used a much higher quality of fuel lines must be used which makes the direct injection fuel system a much expensive one.
 
-### Types of Injector drivers 
+### Types of Injector drivers
 
 **Saturated or High Impedance Driver**
 
-Most of the factory built cars with port fuel injection comes with the saturated type driver which supplies 12 V to the injectors to open as the ECU commands to do it. This is an inexpensive yet a reliable injector driver since it operates at 12 V. Due to its high impedance around 12 to 16 ohm the driver circuit carries a lower current value about 1.5 A. Since it has a lower amperage value the circuit remains cool and is much more reliable. The response time of the fuel injector is considerably higher when compared to the latter. Since it produces a small magnetic field there is a delay in both the opening and closing of the fuel injector. Hence opening and closing delays are to be considered while calculating injector pulse width.  
+Most of the factory built cars with port fuel injection comes with the saturated type driver which supplies 12 V to the injectors to open as the ECU commands to do it. This is an inexpensive yet a reliable injector driver since it operates at 12 V. Due to its high impedance around 12 to 16 ohm the driver circuit carries a lower current value about 1.5 A. Since it has a lower amperage value the circuit remains cool and is much more reliable. The response time of the fuel injector is considerably higher when compared to the latter. Since it produces a small magnetic field there is a delay in both the opening and closing of the fuel injector. Hence opening and closing delays are to be considered while calculating injector pulse width.
 
 **Peak and Hold or Low Impedance Driver**
 
 Direct injection engines use Peak and Hold injector drive with a very low resistance (2 -5 ohm) which produces around 60 to 70 V with the help of capacitors. As soon as the ECU commands injection the circuit collapses and a 70 V is provided between the injectors to open the needle quickly. In this stage of injection the peak current ranges around 12 A and its the peak stage of injector actuation. After this, the current flow is reduced to 3 to 5 A by reducing the voltage difference to hold the injector for the predetermined pulse width. Since there is no delay in the opening of the fuel injector, the injection feels a much more responsive. Due to its higher amperage value, the driver remains very hot during operation
 
-Most of the OEM port injected engines uses saturated drivers and some of the engines used for motorsports are modified with peak and hold for gaining response whereas the direct injection engines use peak and hold drivers. 
+Most of the OEM port injected engines uses saturated drivers and some of the engines used for motorsports are modified with peak and hold for gaining response whereas the direct injection engines use peak and hold drivers.
 
 ### Carbon Deposit
 
-The vaporized oil from the engine is collected by the Positive crankcase ventilation (PCV) valve and feed to the intake stream. This Deposits oil particle on the intake valves causing the carbon deposits. In port injection engines since the fuel is injected over the intake valves, it produces a cleaning effect on valves. Hence the carbon deposits on the port injection engine valves seem to be in a negligible amount. 
+The vaporized oil from the engine is collected by the Positive crankcase ventilation (PCV) valve and feed to the intake stream. This Deposits oil particle on the intake valves causing the carbon deposits. In port injection engines since the fuel is injected over the intake valves, it produces a cleaning effect on valves. Hence the carbon deposits on the port injection engine valves seem to be in a negligible amount.
 
 Indirect injection engines there is no cleansing effect on the intake valves which leads to excessive carbon deposits on the valves over a period of time. Valve cleaning is an expensive process since it comprises engine overhauling. So in order to avoid such carbon deposits, the vaporized oil is collected by running them through the oil separator and then into the intake stream. The centrifuge can also be used to separate oil from the charge air mixture. 
