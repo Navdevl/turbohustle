@@ -3,7 +3,6 @@ author = "Sanjiv Raj R"
 categories = [""]
 date = "2018-07-11T18:46:54+00:00"
 description = "Port fuel injection marked a phenomenal origination in gasoline engines by providing great accuracy in the quantity of fuel injected which made manufacturers to meet the emission norms. As the emission norms got very harsh, manufacturers are made to come up with new technologies such as direct injection in the gasoline engines. Direct injection gasoline engines are capable of injecting the precise amount of fuel in the combustion chamber making the engine to run at target air-fuel ratio. And by providing different operating modes direct injection engines came up with great power figures without compromising fuel economy."
-draft = true
 featured = "/img/2018/07/Injector-dynamics_breakin.jpg"
 featuredalt = ""
 featuredpath = ""
