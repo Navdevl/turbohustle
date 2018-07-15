@@ -37,7 +37,7 @@ In port injection gasoline engines the injector pulse width can go even up to th
 
 The port injection engines operate at a much lesser fuel pressure to a low-pressure fuel pump feeding the fuel into the rail with about 40 to 60 psi comprises the fuel system. The fuel rail is either made of plastic or stainless steel hence reducing the cost of the fuel systems of port injection engines.
 
-Since direct injection engines operate at approx 350 bar the fuel feed from the low-pressure pump is again compressed by the high-pressure pump. This high-pressure pump is driven by the lobes in the camshaft. Since higher pressure is used a much higher quality of fuel lines must be used which makes the direct injection fuel system a much expensive one.
+Since direct injection engines operate at approx 350 bar, the fuel feed from the low-pressure pump is again compressed by the high-pressure pump. This high-pressure pump is driven by the lobes in the camshaft. Since higher pressure is used a much higher quality of fuel lines must be used which makes the direct injection fuel system a much expensive one.
 
 ### Types of Injector drivers
 
