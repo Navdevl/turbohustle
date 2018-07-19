@@ -21,4 +21,10 @@ Whenever you roll of the throttle, the butterfly valve closes and prevents the i
 
 The amount of engine braking is dependent on the following parameters.
 
-1. 
+#### 1. Engine Cubic Capacity
+
+With the increase in displacement of the engine, the forces responsible for retardation also increases. This makes the larger capacity engines to brake significantly in comparison with small displacement engines.
+
+#### 2. Engine Rpm
+
+With the throttle closed the increase in engine rpm increases the vacuum created which is also the reason for the riders experience a higher braking force at lower gears than in the higher gears at the same vehicle speed.
