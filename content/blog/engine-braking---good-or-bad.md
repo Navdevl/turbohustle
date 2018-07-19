@@ -9,7 +9,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 tags = []
-title = "Engine Braking - Good or Bad"
+title = "Engine Braking - Good and Bad"
 type = "post"
 
 +++
@@ -32,3 +32,7 @@ Letting off the throttle completely at higher engine speed will lead to a produc
 #### 3. Throttle Opening
 
 A Variable engine braking is possible by controlling the amount butterfly valve opening after letting off the throttle completely. So by increasing the opening angle the effect of engine braking can be decreased. 
+
+#### Good Things First
+
+Engine braking serves to be a very good technique to practice for the following reasons 
