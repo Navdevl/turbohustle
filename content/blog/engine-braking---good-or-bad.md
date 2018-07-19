@@ -31,4 +31,4 @@ With the throttle valve completely closed the increase in engine rpm, the vacuum
 
 #### 3. Throttle Opening
 
-In MotoGP and other track focused machines the engine braking can be controlled by the amount of butterfly valve opening even after completely letting of the throttle.
+In MotoGP and other track focused machines the engine braking can be controlled by the amount of butterfly valve opening even after completely letting of the throttle. With engine braking, the heat produced in the rotors can be reduced to a far bit.
