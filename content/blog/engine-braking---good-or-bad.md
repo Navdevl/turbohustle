@@ -27,4 +27,8 @@ With the increase in displacement of the engine, the forces responsible for reta
 
 #### 2. Engine Rpm
 
-With the throttle closed the increase in engine rpm increases the vacuum created which is also the reason for the riders experience a higher braking force at lower gears than in the higher gears at the same vehicle speed.
+With the throttle valve completely closed the increase in engine rpm, the vacuum created is also increased which is also the reason for the riders experiencing a higher braking force at lower gears than in the higher gears at the same vehicle speed.
+
+#### 3. Throttle Opening
+
+In MotoGP and other track focused machines the engine braking can be controlled by the amount of butterfly valve opening even after completely letting of the throttle.
