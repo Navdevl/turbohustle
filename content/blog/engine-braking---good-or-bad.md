@@ -40,3 +40,4 @@ Engine braking serves to be a very good technique to practice for the following 
 * By decreasing the usage of conventional braking, the life of brake pads increases significantly. This sounded fictitious for me until i could myself feel the difference.
 * Engine braking can be used to a fair amount during bumper to bumper traffic conditions. This allows the rider to have a better control over the braking and acceleration since engine braking is much more engaging for the rider.
 * MotoGP riders masters the engine braking techniques and perform it before entering a corner as it allows the rider to concentrate more on cornering and provides the liberty to quickly accelerate and exit the corner.
+* Only thing you probably have to remember is that the tail lamp 
