@@ -38,17 +38,14 @@ A Variable engine braking is possible by controlling the amount butterfly valve 
 Engine braking serves to be a very good technique to practice for the following reasons
 
 * By decreasing the usage of conventional braking, the life of brake pads increases significantly. This sounded fictitious for me until i could myself feel the difference.
-
-
 * Engine braking can be used to a fair amount during bumper to bumper traffic conditions. This allows the rider to have a better control over the braking and acceleration since engine braking is much more engaging for the rider.
-
-
 * MotoGP riders masters the engine braking techniques and perform it before entering a corner as it allows the rider to concentrate more on cornering and provides the liberty to quickly accelerate and exit the corner.
 
 Only thing you probably have to remember while using engine braking in traffic conditions is that the tail lamp does not lights up till the conventional brakes are applied. Riders flash their brakes quickly to alert the traffic behind.
 
 ### Element of Danger
 
-Whenever you drop on a lower gear its necessary to match the engine RPM to the vehicle speed. This phenomenon is known as Rev Matching. Engine Braking will be really dangerous when you shift to lower gears without rev matching. This will lead to a serious damage in transmission components.
+* Whenever you drop on a lower gear its necessary to match the engine RPM to the vehicle speed. This phenomenon is known as Rev Matching. Engine Braking will be really dangerous when you shift to lower gears without rev matching. This will lead to a serious damage in transmission components.
 
-When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
+
+* When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
