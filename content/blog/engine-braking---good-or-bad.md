@@ -31,7 +31,7 @@ Letting off the throttle completely at higher engine speed will lead to a produc
 
 #### 3. Throttle Opening
 
-A Variable engine braking is possible by controlling the amount butterfly valve opening after letting off the throttle completely. So by increasing the opening angle the effect of engine braking can be decreased.
+A Variable engine braking is possible by controlling the amount butterfly valve opening after letting off the throttle completely. So by increasing the opening angle the effect of engine braking can be limited.
 
 ### Good Things First
 
