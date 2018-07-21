@@ -41,21 +41,21 @@ Engine braking serves to be a very good technique to practice for the following 
 * Engine braking can be used to a fair amount during bumper to bumper traffic conditions. This allows the rider to have a better command over the braking and acceleration since engine braking is much more engaging for the rider.
 * MotoGP riders masters the engine braking techniques and perform it during a corner entry as it allows the rider to concentrate more on cornering and provides the liberty to instantly accelerate to exit the corner.
 
-Only thing you probably have to remember while using engine braking in traffic conditions is that the tail lamp does not lights up till the conventional brakes are applied. Riders flash their brakes quickly to alert the traffic behind.
+The only thing you probably have to remember while using engine braking in traffic conditions is that the tail lamp does not light up until the conventional brakes are applied. Riders flash their brakes quickly to alert the traffic behind.
 
 ### Element of Danger
 
-1. Whenever you drop on a lower gear its necessary to match the engine RPM to the vehicle speed. This phenomenon is known as Rev Matching. Engine Braking will be really dangerous when you shift to lower gears without rev matching. This will lead to a serious damage in transmission components.
+1. Whenever you drop on a lower gear its necessary to match the engine RPM to the vehicle speed for a smooth shift. This phenomenon is known as Rev Matching. Engine Braking will be really dangerous when you shift to lower gears without rev matching. This will lead to a serious damage to transmission components.
 
 ##### Fix
 
-Blipping the throttle during the downshift allows the engine RPM to increase and to match with the vehicle speed. Since the engine speed is matched, there is no more load on the transmission during the gear drop. This can also be done by Auto-blipper in modern high performance bikes.
+Blipping the throttle during the downshift allows the engine RPM to increase and to match with the vehicle speed. Since the engine speed is matched, there is no more load on the transmission during the gear drop. This can also be done by Auto-blipper in modern high-performance bikes.
 
-1. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
+2. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM surpassing the red-line. In these occasions, the rear wheel will tend to lock and it releases only after disengaging the clutch or shifting to a higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to perilous situations at the time of Shift-Lock.
 
 ##### Fix
 
-Even a entry level sport bike like Ninja 300 is fitted with an slipper clutch as standard. Slipper clutch as the name implies it allows the rear wheel to slip and rotate freely during multiple aggressive downshifts which avoids shift lock and hazardous situations.
+Indeed an entry-level sports bike like Ninja 300 is fitted with a slipper clutch as standard. Slipper clutch as the name implies it allows the rear wheel to slip and rotate freely during multiple aggressive downshifts which avoids shift lock and hazardous situations.
 
 ### Conclusion
 
