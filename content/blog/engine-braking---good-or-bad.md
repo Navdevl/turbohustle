@@ -17,7 +17,7 @@ Let us take a small glance about the engine braking before getting into the misc
 
 ### What is Engine Braking?
 
-Whenever you roll of the throttle, the butterfly valve closes and prevents the intake air charge to enter into the engine which makes the engine to run out off power. Since the clutch is engaged during this process, the kinetic energy of the rear wheels starts to drive the crankshaft thereby moving the piston. The vacuum produced by the piston with the closed throttle valve produces the necessary retarding force for the vehicle to slowdown. The excess heat produced due to engine braking is significantly less than that of the heat produced by conventional braking system during hard braking.
+Whenever you roll off the throttle, the butterfly valve closes and prevents the intake air charge to enter into the engine which makes the engine to run out of power. Since the clutch is engaged during this process, the kinetic energy of the rear wheels starts to spin the crankshaft thereby moving the piston. The vacuum produced by the piston with the closed throttle valve produces the necessary retarding force for the vehicle to slow down. The excess heat produced due to engine braking is significantly less than that of the heat produced by conventional braking system during hard braking.
 
 The amount of engine braking is dependent on the following parameters.
 
@@ -51,7 +51,7 @@ Only thing you probably have to remember while using engine braking in traffic c
 
 Blipping the throttle during the downshift allows the engine RPM to increase and to match with the vehicle speed. Since the engine speed is matched, there is no more load on the transmission during the gear drop. This can also be done by Auto-blipper in modern high performance bikes.
 
-2. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
+1. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
 
 ##### Fix
 
