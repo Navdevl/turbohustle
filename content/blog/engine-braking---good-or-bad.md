@@ -23,7 +23,7 @@ The amount of engine braking is dependent on the following parameters.
 
 #### 1. Engine Cubic Capacity
 
-With the increase in displacement of the engine, the forces responsible for retardation also increases. This makes the larger capacity engines to brake significantly in comparison with small displacement engines.
+With the increase in displacement of the engine, the forces responsible for retardation also develops. This makes the larger capacity engines to brake significantly in contrast with small displacement engines.
 
 #### 2. Engine Speed
 
