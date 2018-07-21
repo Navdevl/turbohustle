@@ -45,12 +45,18 @@ Only thing you probably have to remember while using engine braking in traffic c
 
 ### Element of Danger
 
-* Whenever you drop on a lower gear its necessary to match the engine RPM to the vehicle speed. This phenomenon is known as Rev Matching. Engine Braking will be really dangerous when you shift to lower gears without rev matching. This will lead to a serious damage in transmission components.
+1. Whenever you drop on a lower gear its necessary to match the engine RPM to the vehicle speed. This phenomenon is known as Rev Matching. Engine Braking will be really dangerous when you shift to lower gears without rev matching. This will lead to a serious damage in transmission components.
 
 ##### Fix
 
 Blipping the throttle during the downshift allows the engine RPM to increase and to match with the vehicle speed. Since the engine speed is matched, there is no more load on the transmission during the gear drop. This can also be done by Auto-blipper in modern high performance bikes.
 
-* When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
+2. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM exceeding the red-line. In these occasions the rear wheel will tend to lock and it releases only after engaging the clutch back or shifting to an higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to hazardous situations at the time of Shift-Lock.
 
 ##### Fix
+
+Even a entry level sport bike like Ninja 300 is fitted with an slipper clutch as standard. Slipper clutch as the name implies it allows the rear wheel to slip and rotate freely during multiple aggressive downshifts which avoids shift lock and hazardous situations.
+
+### Conclusion
+
+Like many other techniques such as clutch-less up shift and down shift, Engine braking is not going to harm your engine or transmission components when its performed in the way it should.
