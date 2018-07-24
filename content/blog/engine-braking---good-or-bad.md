@@ -4,7 +4,7 @@ categories = [""]
 date = "2018-07-18T17:27:59+00:00"
 description = "In the early era of motorcycling, motorcyclists used engine braking effectively to slow down their asphalt which also marked the beginning of misconceptions about engine braking. Even now with so many advancements in braking technology, engine braking prevails to be a part of indespensable riding techniques. "
 draft = true
-featured = ""
+featured = "/img/2018/07/2017-KTM-390-DUKE-011.jpg"
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
@@ -49,11 +49,15 @@ The only thing you probably have to remember while using engine braking in traff
 
 ##### Fix
 
+![](/img/2018/07/Downshifting-Techniques-Wrist-Position.jpg)
+
 Blipping the throttle during the downshift allows the engine RPM to increase and to match with the vehicle speed. Since the engine speed is matched, there is no more load on the transmission during the gear drop. This can also be done by Auto-blipper in modern high-performance bikes.
 
 2. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM surpassing the red-line. In these occasions, the rear wheel will tend to lock and it releases only after disengaging the clutch or shifting to a higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to perilous situations at the time of Shift-Lock. 
 
 ##### Fix
+
+![](/img/2018/07/21081.jpg)
 
 Indeed an entry-level sports bike like Ninja 300 is fitted with a slipper clutch as standard. Slipper clutch as the name implies it allows the rear wheel to slip and rotate freely during multiple aggressive downshifts which avoids shift lock and hazardous situations.
 
