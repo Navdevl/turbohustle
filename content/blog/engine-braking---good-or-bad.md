@@ -51,7 +51,7 @@ The only thing you probably have to remember while using engine braking in traff
 
 Blipping the throttle during the downshift allows the engine RPM to increase and to match with the vehicle speed. Since the engine speed is matched, there is no more load on the transmission during the gear drop. This can also be done by Auto-blipper in modern high-performance bikes.
 
-2. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM surpassing the red-line. In these occasions, the rear wheel will tend to lock and it releases only after disengaging the clutch or shifting to a higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to perilous situations at the time of Shift-Lock.
+2. When the rider makes multiple aggressive downshifts, there is a possibility of engine RPM surpassing the red-line. In these occasions, the rear wheel will tend to lock and it releases only after disengaging the clutch or shifting to a higher gear. This phenomenon of wheels losing its action is known as Shift-Lock. Engine braking can lead to perilous situations at the time of Shift-Lock. 
 
 ##### Fix
 
