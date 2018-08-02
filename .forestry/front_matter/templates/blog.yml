@@ -61,6 +61,7 @@ fields:
   default: ''
 pages:
 - content/blog/gasoline---port-vs-direct-injection.md
+- content/blog/engine-braking-control-moto-gp.md
 - content/blog/8-things-an-aftermarket-piggyback-ecu-can-accomplish.md
 - content/blog/10-interesting-facts-on-moto-gp.md
 - content/blog/10-auxiliary-maps-for-precise-tuning.md
