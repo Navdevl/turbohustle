@@ -1,8 +1,15 @@
 +++
+author = ""
 categories = [""]
 date = "2018-08-02T17:57:10+00:00"
+description = ""
 draft = true
-title = "Engine Braking Control - Moto GP "
+featured = ""
+featuredalt = ""
+featuredpath = ""
+linktitle = ""
+tags = []
+title = "Engine Braking Control - MotoGP "
 type = "post"
 
 +++
