@@ -25,4 +25,4 @@ Its no wonder that this image sounds skeptical but the image will be resolved in
 
 #### Prerequisite for Engine Braking Strategy
 
-When the rider lets off the throttle and turns down the gear, the system enters into the Engine Braking mode. **_Number 1_** indicates the rider's action of letting off the throttle and decreasing the gears. **_Number 5_** indicates the moment at which the engine braking strategy commences. The system comes out from the Engine braking strategy when the rider opens the throttle 
+When the rider lets off the throttle and turns down the gear, the system enters into the Engine Braking mode. **_Number 1_** indicates the rider's action of letting off the throttle and decreasing the gears. **_Number 5_** indicates the moment at which the engine braking strategy commences. The system comes out from the Engine braking strategy as soon as when the rider opens the throttle.
