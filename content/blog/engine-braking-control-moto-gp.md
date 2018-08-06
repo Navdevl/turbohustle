@@ -39,10 +39,20 @@ The rider utilizes the engine braking strategy before entering the corner. **_Nu
 
 The rear wheel load increases as the weight applied on rear wheel increases. When there is a increased wheel load there is a increased chance of grip available to the tires which can be handy while braking. During hard braking the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So its important to increase the engine braking when the rear wheel load increases.
 
-#### Braking Force
+##### Braking Force
 
 From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angles its better to avoid the braking force on rear wheels.
 
 #### Controlling Engine Braking
 
 Based on the factors mentioned above the engine braking is controlled by either controlling the butterfly valves or the quantity of fuel injected.
+
+##### Butterfly Valves
+
+Even after the rider roll off the throttle completely, the butterfly valves does not close completely. The movement of butterfly valves are controlled which can be noticed from **_Number 6,_** since sudden closing of butterfly valves can end up locking the rear wheels causing some undesirable effects to the rider. As the rear wheel load increases the butterfly valves gradually closes which increases the engine braking effect. 
+
+After the system exits the Engine Braking strategy, the butterfly valve opens one after the other to provide a smooth transition which reduces the braking force from the rear wheel gradually.
+
+##### Fuel Injection Quantity
+
+Complete cut-off of fuel injectors during engine braking can lead to locking up of rear wheel. In **_Number 7_**  the lambda values are provided for the four cylinders. Due to the throttle valve reduces the opening angle quickly, a momentary rich condition prevails. After this any one of the four injectors controls the engine braking through the amount of fuel injected whereas the other three is cut-off which is the result of very high lambda value. Once the system 
