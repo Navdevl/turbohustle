@@ -35,6 +35,14 @@ Before understanding the way of controlling engine braking its necessary to know
 
 The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry a astounding lean angles in corner, its important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
 
-##### Rear Wheel Load 
+##### Rear Wheel Load
 
 The rear wheel load increases as the weight applied on rear wheel increases. When there is a increased wheel load there is a increased chance of grip available to the tires which can be handy while braking. During hard braking the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So its important to increase the engine braking when the rear wheel load increases.
+
+#### Braking Force
+
+From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angles its better to avoid the braking force on rear wheels.
+
+#### Controlling Engine Braking
+
+Based on the factors mentioned above the engine braking is controlled by either controlling the butterfly valves or the quantity of fuel injected.
