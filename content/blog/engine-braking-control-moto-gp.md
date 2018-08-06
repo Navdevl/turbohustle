@@ -23,36 +23,46 @@ Larger capacity motorcycles produce a greater force of engine braking which can 
 
 Its no wonder that this image sounds skeptical but the image will be resolved into some proper information in the content below.
 
-#### Prerequisite for Engine Braking Strategy
+### Prerequisite for Engine Braking Strategy
 
 When the rider lets off the throttle and turns down the gear, the system enters into the Engine Braking mode. **_Number 1_** indicates the rider's action of letting off the throttle and decreasing the gears. **_Number 5_** indicates the moment at which the engine braking strategy commences. The system comes out from the Engine braking strategy as soon as when the rider opens the throttle.
 
-#### Factors into Consideration
+### Factors into Consideration
 
 Before understanding the way of controlling engine braking its necessary to know about the factors which influence the amount of engine braking. These are some set of factors which are made into thought to alter engine braking characteristics.
 
-##### Lean Angle
+#### Lean Angle
 
 The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry a astounding lean angles in corner, its important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
 
-##### Rear Wheel Load
+#### Rear Wheel Load
 
 The rear wheel load increases as the weight applied on rear wheel increases. When there is a increased wheel load there is a increased chance of grip available to the tires which can be handy while braking. During hard braking the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So its important to increase the engine braking when the rear wheel load increases.
 
-##### Braking Force
+#### Braking Force
 
 From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angles its better to avoid the braking force on rear wheels.
 
-#### Controlling Engine Braking
+### Controlling Engine Braking
 
 Based on the factors mentioned above the engine braking is controlled by either controlling the butterfly valves or the quantity of fuel injected.
 
-##### Butterfly Valves
+#### Butterfly Valves
 
 Even after the rider roll off the throttle completely, the butterfly valves does not close completely. The movement of butterfly valves are controlled which can be noticed from **_Number 6,_** since sudden closing of butterfly valves can end up locking the rear wheels causing some undesirable effects to the rider. As the rear wheel load increases the butterfly valves gradually closes which increases the engine braking effect. 
 
 After the system exits the Engine Braking strategy, the butterfly valve opens one after the other to provide a smooth transition which reduces the braking force from the rear wheel gradually.
 
-##### Fuel Injection Quantity
+#### Fuel Injection Quantity
 
 Complete cut-off of fuel injectors during engine braking can lead to locking up of rear wheel. In **_Number 7_**  the lambda values are provided for the four cylinders. Due to the throttle valve reduces the opening angle quickly, a momentary rich condition prevails. After this any one of the four injectors controls the engine braking through the amount of fuel injected whereas the other three is cut-off which is the result of very high lambda value. Once the system exits the engine braking mode, the other three injectors are brought into action in a sequence since sudden increase in fuel injection can pour out more power to the rear wheel which is not sensible since the rider approaches the maximum lean angle. 
+
+### Conclusion
+
+The amount of engine braking is controlled based on these parameter and most importantly by the rider's preferences.
+
+##### References
+
+* [https://www.motorsportmagazine.com/opinion/motogp/how-motogp-engine-braking-control-works](https://www.motorsportmagazine.com/opinion/motogp/how-motogp-engine-braking-control-works "https://www.motorsportmagazine.com/opinion/motogp/how-motogp-engine-braking-control-works") 
+
+  **P.S.** It was a great article by Mat Oxley which was worth sharing in my own terms.
