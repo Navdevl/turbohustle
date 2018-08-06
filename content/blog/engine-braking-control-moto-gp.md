@@ -33,4 +33,4 @@ Before understanding the way of controlling engine braking its necessary to know
 
 ##### Lean Angle
 
-The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry a astounding lean angles in corner, its important to make the transitions between the levels of Engine braking as smooth as possible.
+The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry a astounding lean angles in corner, its important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
