@@ -55,7 +55,7 @@ After the system exits the Engine Braking strategy, the butterfly valve opens on
 
 #### Fuel Injection Quantity
 
-Complete cut-off of fuel injectors during engine braking can lead to locking up of rear wheel. In **_Number 7_**  the lambda values are provided for the four cylinders. Due to the throttle valve reduces the opening angle quickly, a momentary rich condition prevails. After this any one of the four injectors controls the engine braking through the amount of fuel injected whereas the other three is cut-off which is the result of very high lambda value. Once the system exits the engine braking mode, the other three injectors are brought into action in a sequence since sudden increase in fuel injection can pour out more power to the rear wheel which is not sensible since the rider approaches the maximum lean angle. 
+The complete cut-off of fuel injectors during engine braking can lead to locking up of the rear wheel. In **_Number 7_**  the lambda values are provided for the four cylinders. Due to the throttle valve reduces the opening angle quickly, a momentary rich condition prevails. After this, any one of the four injectors controls the engine braking through the amount of fuel injected whereas the other three is cut-off which is the result of very high lambda value. Once the system exits the engine braking mode, the other three injectors are brought into action in a sequence since the sudden increase in fuel injection can pour out more power to the rear wheel which is not sensible since the rider approaches the maximum lean angle. 
 
 ### Conclusion
 
@@ -65,4 +65,4 @@ The amount of engine braking is controlled based on these parameter and most imp
 
 * [https://www.motorsportmagazine.com/opinion/motogp/how-motogp-engine-braking-control-works](https://www.motorsportmagazine.com/opinion/motogp/how-motogp-engine-braking-control-works "https://www.motorsportmagazine.com/opinion/motogp/how-motogp-engine-braking-control-works") 
 
-  **P.S.** It was a great article by Mat Oxley which was worth sharing in my own terms.
+  **P.S.** It was a great article by Mat Oxley which was worth sharing on my own terms.
