@@ -17,11 +17,11 @@ In an average, the rider traveling over 320 kmph brakes to almost 150 kmph at th
 
 ### Need for Advancements
 
-Larger capacity motorcycles produce a greater force of engine braking which can be vulnerable in some situations. Too much of engine braking can make the rear wheel to lock-up with hazardous after-effects. When FIM reduced the maximum fuel consumption significantly, a severe engine braking technique was adopted by cutting off the fuel injectors when the rider lets off the throttle. But this strategy leads to severe crashes due to rear wheels getting locked-up frequently. After this, some refinement was made to the craft of engine braking through the modern electronics which is presently known as Engine Braking Control (EBC).
+Larger capacity motorcycles produce a greater force of engine braking which can be vulnerable in some situations. Too much of engine braking can make the rear wheel to lock-up with hazardous after-effects. When FIM reduced the maximum fuel consumption significantly, a severe engine braking technique was adopted by cutting off the fuel injectors when the rider lets off the throttle. But this strategy steered to severe crashes due to rear wheel getting locked-up frequently. After this, some refinement was made to the craft of engine braking through the modern electronics which is presently known as Engine Braking Control (EBC).
 
 ![](/img/2018/08/motor_sport_blog_3_january_2017_ebc_graph.png)
 
-Its no wonder that this image sounds skeptical but the image will be resolved into some proper information in the content below.
+It's no wonder that this image sounds skeptical but the image will be resolved into some proper information in the content below.
 
 ### Prerequisite for Engine Braking Strategy
 
@@ -33,15 +33,15 @@ Before understanding the way of controlling engine braking its necessary to know
 
 #### Lean Angle
 
-The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry a astounding lean angles in corner, its important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
+The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry astounding lean angles in the corner, it's important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
 
 #### Rear Wheel Load
 
-The rear wheel load increases as the weight applied on rear wheel increases. When there is a increased wheel load there is a increased chance of grip available to the tires which can be handy while braking. During hard braking the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So its important to increase the engine braking when the rear wheel load increases.
+The rear wheel load increases as the weight applied on rear wheel increases. When there is an increased wheel load there is an increased chance of grip available to the tires which can be handy while braking. During hard braking, the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So it's important to increase the engine braking when the rear wheel load increases.
 
 #### Braking Force
 
-From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angles its better to avoid the braking force on rear wheels.
+From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean, the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angle its better to avoid the braking force on rear wheels.
 
 ### Controlling Engine Braking
 
@@ -49,7 +49,7 @@ Based on the factors mentioned above the engine braking is controlled by either 
 
 #### Butterfly Valves
 
-Even after the rider roll off the throttle completely, the butterfly valves does not close completely. The movement of butterfly valves are controlled which can be noticed from **_Number 6,_** since sudden closing of butterfly valves can end up locking the rear wheels causing some undesirable effects to the rider. As the rear wheel load increases the butterfly valves gradually closes which increases the engine braking effect. 
+Even after the rider roll off the throttle completely, the butterfly valves do not close completely. The movement of butterfly valves is controlled which can be noticed from **_Number 6_**, since the sudden closing of butterfly valves can end up locking the rear wheels causing some undesirable effects on the rider. As the rear wheel load increases the butterfly valves gradually closes which increases the engine braking effect. 
 
 After the system exits the Engine Braking strategy, the butterfly valve opens one after the other to provide a smooth transition which reduces the braking force from the rear wheel gradually.
 
