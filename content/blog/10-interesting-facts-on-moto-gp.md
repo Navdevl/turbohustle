@@ -2,7 +2,7 @@
 author = "Sanjiv Raj"
 categories = ["Engine"]
 date = "2018-04-22T00:00:00Z"
-description = "MotoGP proves to be an supreme motor sport event in the litre class segment for almost a century. Yet there are some astounding facts which are less likely to hear. Here i am sharing some of the interesting facts about MotoGP"
+description = "MotoGP proves to be a supreme motorsport event in the liter class segment for almost a century. Yet there are some astounding facts which are less likely to hear. Here I am sharing some of the interesting facts about MotoGP"
 featured = "img/2018/04/10-interesting-facts-on-moto-gp.jpg"
 featuredalt = ""
 featuredpath = ""
@@ -12,7 +12,7 @@ title = "10 Interesting facts on MotoGP"
 type = "post"
 
 +++
-In MotoGP racing championship both performance and innovation goes hand in hand. And the bikes are purpose built for individual riders to enhance their control over the motorcycle in the track. Many technological improvements are made every year taking the competition between the bike manufacturers to a whole new level. Innovations which are made in  MotoGP takes a considerable amount of time and money to reach the road going super bikes. So here are some interesting facts and technologies of MotoGP
+In MotoGP racing championship both performance and innovation goes hand in hand. And the bikes are purpose built for individual riders to enhance their control over the motorcycle in the track. Many technological improvements are made every year taking the competition between the bike manufacturers to a whole new level. Innovations which are made in MotoGP takes a considerable amount of time and money to reach the road going super bikes. So here are some interesting facts and technologies of MotoGP
 
 ## 1. HANDCRAFTED ENGINES FOR RACING AND RELIABILITY
 
