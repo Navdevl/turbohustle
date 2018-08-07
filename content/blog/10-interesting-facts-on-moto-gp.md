@@ -12,7 +12,7 @@ title = "10 Interesting facts on MotoGP"
 type = "post"
 
 +++
-In MotoGP racing championship both performance and innovation goes hand in hand. And the bikes are purpose built for individual riders to enhance their control over the motorcycle in the track. Many technological improvements are made every year taking the competition between the bike manufacturers to a whole new level. Innovations which are made in MotoGP takes a considerable amount of time and money to reach the road going super bikes. So here are some interesting facts and technologies of MotoGP
+In MotoGP racing championship both performance and innovation goes hand in hand. And the bikes are purpose built for individual riders to enhance their control over the motorcycle in the track. Many technological improvements are made every year taking the competition between the bike manufacturers to a whole new level. Innovations which are made in  MotoGP takes a considerable amount of time and money to reach the road going super bikes. So here are some interesting facts and technologies of MotoGP
 
 ## 1. HANDCRAFTED ENGINES FOR RACING AND RELIABILITY
 
