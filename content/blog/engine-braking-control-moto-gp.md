@@ -32,15 +32,15 @@ Before understanding the way of controlling engine braking its necessary to know
 
 #### Lean Angle
 
-The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry astounding lean angles in the corner, it's important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
+* The rider utilizes the engine braking strategy before entering the corner. **_Number 2_** clearly indicates that the rider increases the lean angle as he approaches the corner. Since riders carry astounding lean angles in the corner, it's important to make the transitions between the levels of Engine braking as smooth as possible. Failing to do so can punish the rider with some nasty after-effects.
 
 #### Rear Wheel Load
 
-The rear wheel load increases as the weight applied on rear wheel increases. When there is an increased wheel load there is an increased chance of grip available to the tires which can be handy while braking. During hard braking, the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So it's important to increase the engine braking when the rear wheel load increases.
+* The rear wheel load increases as the weight applied on rear wheel increases. When there is an increased wheel load there is an increased chance of grip available to the tires which can be handy while braking. During hard braking, the rear wheel load decreases dramatically which can be visualized from **_Number 3_** and typically it even reaches zero at some point of cornering. So it's important to increase the engine braking when the rear wheel load increases.
 
 #### Braking Force
 
-From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean, the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angle its better to avoid the braking force on rear wheels.
+* From the **_Number 4_** its evident that the rider uses the rear brakes more gradually whereas the front brakes in a much more progressive manner. Even during the full lean, the rider uses the front brakes. This phenomenon of applying front brake and letting of smoothly and simultaneously accelerating through the corners is known as Trail-Braking. After a certain lean angle its better to avoid the braking force on rear wheels.
 
 ### Controlling Engine Braking
 
@@ -48,13 +48,14 @@ Based on the factors mentioned above the engine braking is controlled by either 
 
 #### Butterfly Valves
 
-Even after the rider roll off the throttle completely, the butterfly valves do not close completely. The movement of butterfly valves is controlled which can be noticed from **_Number 6_**, since the sudden closing of butterfly valves can end up locking the rear wheels causing some undesirable effects on the rider. As the rear wheel load increases the butterfly valves gradually closes which increases the engine braking effect.
+* Even after the rider roll off the throttle completely, the butterfly valves do not close completely. The movement of butterfly valves is controlled which can be noticed from **_Number 6_**, since the sudden closing of butterfly valves can end up locking the rear wheels causing some undesirable effects on the rider. As the rear wheel load increases the butterfly valves gradually closes which increases the engine braking effect.
 
-After the system exits the Engine Braking strategy, the butterfly valve opens one after the other to provide a smooth transition which reduces the braking force from the rear wheel gradually.
+
+* After the system exits the Engine Braking strategy, the butterfly valve opens one after the other to provide a smooth transition which reduces the braking force from the rear wheel gradually.
 
 #### Fuel Injection Quantity
 
-The complete cut-off of fuel injectors during engine braking can lead to locking up of the rear wheel. In **_Number 7_**  the lambda values are provided for the four cylinders. Due to the throttle valve reduces the opening angle quickly, a momentary rich condition prevails. After this, any one of the four injectors controls the engine braking through the amount of fuel injected whereas the other three is cut-off which is the result of very high lambda value. Once the system exits the engine braking mode, the other three injectors are brought into action in a sequence since the sudden increase in fuel injection can pour out more power to the rear wheel which is not sensible since the rider approaches the maximum lean angle.
+* The complete cut-off of fuel injectors during engine braking can lead to locking up of the rear wheel. In **_Number 7_**  the lambda values are provided for the four cylinders. Due to the throttle valve reduces the opening angle quickly, a momentary rich condition prevails. After this, any one of the four injectors controls the engine braking through the amount of fuel injected whereas the other three is cut-off which is the result of very high lambda value. Once the system exits the engine braking mode, the other three injectors are brought into action in a sequence since the sudden increase in fuel injection can pour out more power to the rear wheel which is not sensible since the rider approaches the maximum lean angle.
 
 ### Conclusion
 
