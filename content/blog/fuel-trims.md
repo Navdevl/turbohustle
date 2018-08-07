@@ -54,4 +54,4 @@ If there is a vacuum leak downstream of the MAF sensor there is an excess of air
 
 ![](/img/2018/05/FUEL PUMP.jpg)
 
-Assume that there is an improper fuel pump which could not meet the fuel requirements so there is a prevailing lean condition. So the lean condition is compensated with a positive fuel trim. When idling the effect of the fuel pump is not so great compared to partial and full load conditions. This means the fuel trim is minimum in the lower load ranges and increases with the increase in the load
+Assume that there is an improper fuel pump which could not meet the fuel requirements so there is a prevailing lean condition. So the lean condition is compensated with a positive fuel trim. When idling the effect of the fuel pump is not so great compared to partial and full load conditions. This means the fuel trim is minimum in the lower load ranges and increases with the increase in the load.
