@@ -60,14 +60,15 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/blog/gasoline---port-vs-direct-injection.md
-- content/blog/8-things-an-aftermarket-piggyback-ecu-can-accomplish.md
-- content/blog/10-interesting-facts-on-moto-gp.md
-- content/blog/10-auxiliary-maps-for-precise-tuning.md
-- content/blog/fuel-trims.md
-- content/blog/quickshifter-explained.md
-- content/blog/10-tips-to-skyrocket-your-cars-performance.md
-- content/blog/9-guidelines-for-engine-rebuild.md
+- content/blog/traction-control-system-motogp.md
+- content/blog/engine-braking-control-moto-gp.md
 - content/blog/water-methanol-injection---a-octane-booster.md
 - content/blog/engine-braking---good-or-bad.md
-- content/blog/engine-braking-control-moto-gp.md
+- content/blog/gasoline---port-vs-direct-injection.md
+- content/blog/9-guidelines-for-engine-rebuild.md
+- content/blog/10-tips-to-skyrocket-your-cars-performance.md
+- content/blog/quickshifter-explained.md
+- content/blog/fuel-trims.md
+- content/blog/8-things-an-aftermarket-piggyback-ecu-can-accomplish.md
+- content/blog/10-auxiliary-maps-for-precise-tuning.md
+- content/blog/10-interesting-facts-on-moto-gp.md
