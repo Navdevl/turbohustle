@@ -13,3 +13,6 @@ title = "Traction Control System - Motogp"
 type = "post"
 
 +++
+### What is Traction??
+
+Traction can be defined as the friction between the driven wheel and the asphalt upon which its driven. A MotoGP bike pumping 250 horses needs necessary traction to propel the vehicle. When the wheels are powered abundantly in the condition of less traction can lead to wheel spin.
