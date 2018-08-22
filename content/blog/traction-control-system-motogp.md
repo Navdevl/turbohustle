@@ -18,3 +18,5 @@ Traction can be defined as the friction between the driven wheel and the asphalt
 ### Factors Influencing Traction 
 
 When the rear wheel loses traction and spins excessively, the traction control system intrudes and alters the power delivery to the rear wheel so that the wheel spin is controlled. Before getting everything in detail, it's important to know the science behind traction.
+
+#### 1. 
