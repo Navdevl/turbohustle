@@ -15,8 +15,10 @@ type = "post"
 +++
 Traction can be defined as the friction between the driven wheel and the asphalt upon which its driven. A MotoGP bike pumping 250 horses needs necessary traction to propel the vehicle. When the wheels are powered abundantly in the condition of less traction can lead to wheel spin.
 
-### Factors Influencing Traction 
+### Factors Influencing Traction
 
 When the rear wheel loses traction and spins excessively, the traction control system intrudes and alters the power delivery to the rear wheel so that the wheel spin is controlled. Before getting everything in detail, it's important to know the science behind traction.
 
-#### 1. 
+#### 1. Coefficient of Friction
+
+The coefficient of friction between the pavement and the tire
