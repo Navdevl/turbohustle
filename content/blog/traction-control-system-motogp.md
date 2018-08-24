@@ -4,7 +4,7 @@ categories = [""]
 date = "2018-08-20T05:28:09+00:00"
 description = "A MotoGP bike losing its traction moving sideways with excessive wheel spin can be a great site for the spectators, but definitely not for the rider who is trying to exploit every split second. A muscular engine pumping out 250 horses is quite ample for a wheel to lose its traction, So modern day electronics are the ones to rely on for rider's safety."
 draft = true
-featured = "/img/2018/08/marc-marquez-repsol-honda-valencia-test-motogp.jpg"
+featured = "/img/2018/08/63193.jpg"
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
@@ -21,4 +21,4 @@ When the rear wheel loses traction and spins excessively, the traction control s
 
 #### 1. Coefficient of Friction
 
-The coefficient of friction between the pavement and the tire
+The coefficient of friction between the pavement and the rubber determines the gluey nature of the tires. The coefficient of friction between the tire and the tarmac can be improved by introducing soft tire compounds. Soft tire compounds can serve with exceptional traction but have a tendency to rip off easily when compared with tougher compounds.
