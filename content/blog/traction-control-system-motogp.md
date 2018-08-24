@@ -25,6 +25,4 @@ The coefficient of friction between the pavement and the rubber determines the g
 
 #### 2. Normal Force
 
-The significance of frictional force is directly proportional to the force which pushes the two surfaces together. In this case of motorcycle riding, the weight of the bike and the rider acts as the normal force. As long as the bike remain straight, the entire weight forces the tires to stay on the ground which in turn enhances the amount of traction. Things grow complicated only when the rider leans over a corner. Since the resultant force which enforces the bike to the pavement is a product of the cumulative weight and the cosine of the lean angle. So the traction reduces as the lean angle increases.
-
-#### 3. 
+The significance of frictional force is directly proportional to the force which pushes the two surfaces together. In this case of motorcycle riding, the weight of the bike and the rider acts as the normal force. As long as the bike remain straight, the entire weight forces the tires to stay on the ground which in turn enhances the amount of traction. Things grow complicated only when the rider leans over a corner. Since the resultant force which enforces the bike to the pavement is a product of the cumulative weight and the cosine of the lean angle. So the traction reduces as the lean angle increases. But if the normal force exceeds a target value then the coefficient of friction decreases with the increase in normal force.
