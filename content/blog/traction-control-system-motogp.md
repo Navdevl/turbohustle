@@ -32,3 +32,5 @@ The significance of frictional force is directly proportional to the force which
 The whole point of traction control is to enhance rider's safety and its not much of an performance intensification. The traction control system developed by **Magneti Marelli** alters the power delivery in a cautious manner without indulging the stability of the bike. Lets talk some tech stuffs
 
 ![](/img/2018/08/motor_sport_blog_6_december_2016_traction_control_graphic.png)
+
+#### Scenario Overview
