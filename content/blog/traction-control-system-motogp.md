@@ -35,4 +35,6 @@ The whole point of traction control is to enhance rider's safety and its not muc
 
 #### Scenario Overview
 
-This collection of information is from the rider in Turn 5 of Circuito de Jerez which is also known as Sito Pons Corner. From **Number 1,** the rider steadily opens up the throttle progressively and pings completely as he exits the corner. 
+This collection of information is from the rider in Turn 5 of Circuito de Jerez which is also known as Sito Pons Corner. From **Number 1,** the rider steadily opens up the throttle progressively and pings completely as he exits the corner. The green curve shows that the rider provides alters the throttle opening in an to and fro manner as per the wheel spin experienced by the rider.
+
+The red curve indicates the speed of the engine in RPM. From **Number 7,** the engine speed increases as the rider opens the throttle. As the rider shifts on the higher gears as the vehicle speed increases, there is a dip in engine speed momentarily during gear shifts. This is due to the quick shifting strategy made to reduce the load on the transmission during gear shifts.  
