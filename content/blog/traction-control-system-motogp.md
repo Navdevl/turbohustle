@@ -34,3 +34,5 @@ The whole point of traction control is to enhance rider's safety and its not muc
 ![](/img/2018/08/motor_sport_blog_6_december_2016_traction_control_graphic.png)
 
 #### Scenario Overview
+
+This collection of information is from the rider in Turn 5 of Circuito de Jerez which is also known as Sito Pons Corner. From **Number 1,** the rider steadily opens up the throttle progressively and pings completely as he exits the corner. 
