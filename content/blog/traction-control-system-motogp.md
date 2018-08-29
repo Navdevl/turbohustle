@@ -21,8 +21,12 @@ When the rear wheel loses traction and spins excessively, the traction control s
 
 #### 1. Coefficient of Friction
 
-The coefficient of friction between the pavement and the rubber determines the gluey nature of the tires. The coefficient of friction between the tire and the tarmac can be improved by introducing soft tire compounds. Soft tire compounds can serve with exceptional traction but have a tendency to rip off easily when compared with tougher compounds.
+The coefficient of friction between the pavement and the rubber determines the gluey nature of the tires. The coefficient of friction between the tire and the tarmac can be improved by introducing soft tire compounds. Soft tire compounds can serve with exceptional traction but have a tendency to rip off easily when compared with tires made of tougher compounds.
 
 #### 2. Normal Force
 
 The significance of frictional force is directly proportional to the force which pushes the two surfaces together. In this case of motorcycle riding, the weight of the bike and the rider acts as the normal force. As long as the bike remain straight, the entire weight forces the tires to stay on the ground which in turn enhances the amount of traction. Things grow complicated only when the rider leans over a corner. Since the resultant force which enforces the bike to the pavement is a product of the cumulative weight and the cosine of the lean angle. So the traction reduces as the lean angle increases. But if the normal force exceeds a target value then the coefficient of friction decreases with the increase in normal force.
+
+### MotoGP Electronics
+
+The whole point of traction control is to enhance rider's safety and its not much of an performance intensification.
