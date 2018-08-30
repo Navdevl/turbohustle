@@ -37,4 +37,10 @@ The whole point of traction control is to enhance rider's safety and its not muc
 
 This collection of information is from the rider in Turn 5 of Circuito de Jerez which is also known as Sito Pons Corner. From **Number 1,** the rider steadily opens up the throttle progressively and pings completely as he exits the corner. The green curve shows that the rider provides alters the throttle opening in an to and fro manner as per the wheel spin experienced by the rider.
 
-The red curve indicates the speed of the engine in RPM. From **Number 7,** the engine speed increases as the rider opens the throttle. As the rider shifts on the higher gears as the vehicle speed increases, there is a dip in engine speed momentarily during gear shifts. This is due to the quick shifting strategy made to reduce the load on the transmission during gear shifts.  
+The red curve indicates the speed of the engine in RPM. From **Number 7,** the engine speed increases as the rider opens the throttle. As the rider shifts on the higher gears as the vehicle speed increases, there is a dip in engine speed momentarily during gear shifts. This is due to the quick shifting strategy made to reduce the load on the transmission during gear shifts.
+
+#### Factors to be Considered
+
+The traction control system evaluates the wheel spin by considering the vehicle speed and the speed with which the rear wheel rotates. **Number 2** shows the wheel spin target which can vary based on the rider characteristics. Since the wheel spin during full lean is threatening, the target wheel spin is set to very low value about 0 to 2 percent. As the rider straightens up after the full lean the target wheel spin is relaxed progressively.
+
+Since the rider opens the throttle completely during the corner exit, the bike enters the zone of excessive wheel spin. From **Number 3,** it's evident that the wheel spin strikes above targeted value. As the wheel spin jumps out of target the traction control system intrudes the power delivery to retain traction.
