@@ -39,17 +39,17 @@ The red curve indicates the speed of the engine in RPM. From **Number 7**, the e
 
 #### Factors to be Considered
 
-The traction control system evaluates the wheel spin by considering the vehicle speed and the speed with which the rear wheel rotates. **Number 2** shows the wheel spin target which can vary based on the rider characteristics. Since the wheel spin during full lean is threatening, the target wheel spin is set to very low value about 0 to 2 percent. As the rider straightens up after the full lean the target wheel spin is relaxed progressively.
+The traction control system assesses the wheel spin by considering the vehicle speed and the speed with which the rear wheel rotates. **Number 2** shows the wheel spin target, which can vary based on the rider characteristics. Since the wheel spin during full lean is threatening, the target wheel spin is set to a very low value about 0 to 2 percent. As the rider straightens up after the full lean, the target wheel spin is relaxed progressively.
 
-Since the rider opens the throttle completely during the corner exit, the bike enters the zone of excessive wheel spin. From **Number 3,** it's evident that the wheel spin strikes above targeted value. As the wheel spin jumps out of target the traction control system intrudes the power delivery and forces the wheel spin to be in target. **Number 4** is the lean angle which is fed from the inertial measurement unit. The rider and the wheel spin has a very close relation with the lean angle made.
+Since the rider cracks the throttle completely during the corner exit, the bike enters the zone of excessive wheel spin. From **Number 3**, it's evident that the wheel spin strikes above targeted value. As the wheel spin jumps out of the target, the traction control system intrudes the power delivery and forces the wheel spin to be on target. **Number 4** is the lean angle which is fed from the inertial measurement unit. The rider and the wheel spin has a very close relationship with the lean angle made.
 
 #### Power Reduction Strategies
 
-The fastest way of torque reduction is through retardation of ignition angles and the slowest way is probably altering the air delivery through the reduction in throttle angle. Since retardation in ignition angles produces jerks which can lead to instability especially during maximum lean, the most preferable strategy of power reduction is the alteration of throttle angles.
+The fastest way of torque reduction is through retardation of ignition angles and the quietest way is probably altering the air delivery through the reduction in throttle angle. Since retardation in ignition angles produces jerks which can lead to instability especially during maximum lean, the most preferable strategy of power reduction is the alteration of throttle angles.
 
-**Number 5** shows that the torque requested by the rider has been intruded by the traction control system as it senses the loss of traction through excessive wheel spin. The traction control system reduces the torque produced to bring down the wheel spin to the target value. As soon as the target is within limits, Traction control system liberates the power reduction which again makes the wheel spin to go beyond the targeted value so on.
+**Number 5** shows that the torque demanded by the rider has been intruded by the traction control system as it senses the loss of traction through extreme wheel spin. The traction control system reduces the torque produced to bring down the wheel spin to the target value. As soon as the target is within limits, the traction control system liberates the power reduction which again makes the wheel spin to go beyond the targeted value so on.
 
-**Number 6** shows the opening angles of the two butterfly valves. One butterfly valve is made to operate as per the rider inputs. Its evident that the other butterfly valve is controlled by the traction control system, since the two lines follows a similar kind of pattern to reduce torque delivered. Changes to the throttle angle are made very progressively since sudden changes can cause the stability of the bike.
+**Number 6** shows the opening angles of the two butterfly valves. One butterfly valve is made to operate as per the rider inputs. Its evident that the other butterfly valve is controlled by the traction control system since the two lines follow a similar kind of pattern to reduce torque delivered. Changes to the throttle angle are made very progressively since sudden changes can cause the stability of the bike.
 
 ### Conclusion
 
