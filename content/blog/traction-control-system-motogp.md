@@ -29,15 +29,13 @@ The significance of frictional force is directly proportional to the force which
 
 ### MotoGP Electronics
 
-The whole point of traction control is to enhance rider's safety and its not much of an performance intensification. The traction control system developed by **Magneti Marelli** alters the power delivery in a cautious manner without indulging the stability of the bike. Lets talk some tech stuffs
-
-![](/img/2018/08/motor_sport_blog_6_december_2016_traction_control_graphic.png)
+The whole point of traction control is to enhance rider's safety and its not much of a performance intensification. The traction control system developed by **Magneti Marelli** modifies the power delivery in a cautious manner without indulging the stability of the bike. Let's talk some tech stuff
 
 #### Scenario Overview
 
-This collection of information is from the rider in Turn 5 of Circuito de Jerez which is also known as Sito Pons Corner. From **Number 1,** the rider steadily opens up the throttle progressively and pings completely as he exits the corner. The green curve shows that the rider provides alters the throttle opening in an to and fro manner as per the wheel spin experienced by the rider.
+This collection of information is from the rider in Turn 5 of Circuito de Jerez which is also known as Sito Pons Corner. From **Number 1**, the rider firmly opens up the throttle and pings completely as he exits the corner. The green curve shows that the rider provides and alters the throttle opening in an to and fro manner as per the wheel spin experienced by the rider.
 
-The red curve indicates the speed of the engine in RPM. From **Number 7,** the engine speed increases as the rider opens the throttle. As the rider shifts on the higher gears as the vehicle speed increases, there is a dip in engine speed momentarily during gear shifts. This is due to the quick shifting strategy made to reduce the load on the transmission during gear shifts.
+The red curve indicates the speed of the engine in RPM. From **Number 7**, the engine speed increases as the rider open up the throttle. As the rider shifts on the higher gears, there is a dip in engine speed momentarily during gear shifts. This is due to the quick shifting strategy made to reduce the load on the transmission during gear shifts.
 
 #### Factors to be Considered
 
