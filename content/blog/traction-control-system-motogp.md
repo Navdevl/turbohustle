@@ -21,7 +21,7 @@ When the rear wheel loses traction and spins excessively, the traction control s
 
 #### 1. Coefficient of Friction
 
-The coefficient of friction between the pavement and the rubber determines the gluey nature of the tires. The coefficient of friction between the tire and the tarmac can be improved by introducing soft tire compounds. Soft tire compounds can serve with exceptional traction but have a tendency to rip off easily when compared with tires made of tougher compounds.
+The coefficient of friction between the pavement and the rubber determines the gluey nature of the tires. The coefficient of friction between the tire and the tarmac can be enhanced by introducing soft tire compounds. Soft tire compounds can serve with exceptional traction but ought to rip off easily when compared with tires made of tougher compounds.
 
 #### 2. Normal Force
 
