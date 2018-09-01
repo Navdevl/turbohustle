@@ -56,3 +56,9 @@ The fastest way of torque reduction is through retardation of ignition angles an
 ### Conclusion
 
 It's so apparent that the electronics from **Magneti Marelli** has made a MotoGP rocket-ship a safer one to ride on.
+
+#### References
+
+* [https://www.motorsportmagazine.com/opinion/motogp/how-motogp-traction-control-works](https://www.motorsportmagazine.com/opinion/motogp/how-motogp-traction-control-works "https://www.motorsportmagazine.com/opinion/motogp/how-motogp-traction-control-works")
+
+  The article from Mat Oxley has inspired me in a way that even myself could'nt stop me from presenting another article on MotoGP electronics made by Magneti Marelli.
