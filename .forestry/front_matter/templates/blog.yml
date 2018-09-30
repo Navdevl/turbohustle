@@ -60,6 +60,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/explore-isle-of-man-tt.md
 - content/blog/traction-control-system-motogp.md
 - content/blog/engine-braking-control-moto-gp.md
 - content/blog/water-methanol-injection---a-octane-booster.md
