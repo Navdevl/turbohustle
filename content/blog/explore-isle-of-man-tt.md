@@ -9,7 +9,7 @@ featuredalt = ""
 featuredpath = ""
 linktitle = ""
 tags = []
-title = "Explore-Isle of Man TT"
+title = "Explore-The Isle of Man TT"
 type = "post"
 
 +++
