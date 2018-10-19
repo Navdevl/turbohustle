@@ -13,4 +13,4 @@ title = "Explore-The Isle of Man TT"
 type = "post"
 
 +++
-Best racers across the globe gather for a week of ultimate racing experience to exhibit their mastery in circuitous roads of Isle Of Man, a small country between England and Ireland.
+Best racers across the globe gather for a week of ultimate racing experience to exhibit their mastery in the circuitous roads of Isle Of Man, a small country between England and Ireland. The race course is not only breathtakingly beautiful but also has every kind 
