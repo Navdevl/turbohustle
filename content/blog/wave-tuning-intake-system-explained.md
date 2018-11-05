@@ -24,3 +24,5 @@ When charge air gets inducted into the combustion chamber it travels in the form
 Consider a low pressure region travelling along the tube towards the plenum. The pressure of the air in the plenum is comparatively higher than that of the low pressure region, so when the low pressure region hits the end of the tube, air from the plenum rushes in and creates a compression wave heading back down the tube. The opposite happens when a high pressure region hits the end of the tube.  
 
 Now Consider a high pressure region travelling along the tube towards a close end, Since the closed end has infinite acoustic impedance, it further builds up the pressure this high pressure again gets reflected as an high pressure region.
+
+#### Events Causing Pressure Waves
