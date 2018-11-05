@@ -17,12 +17,12 @@ A perfectly harmonized intake system is capable of improving the volumetric effi
 
 ### What is a Pressure Wave ?
 
-When charge air gets inducted into the combustion chamber it travels in the form of pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound increases with the increase in the temperature. 
+When charge air gets inducted into the combustion chamber it travels in the form of the pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound rises with the increase in the temperature.
 
 #### Reflection of Sound Waves
 
-Consider a low pressure region travelling along the tube towards the plenum. The pressure of the air in the plenum is comparatively higher than that of the low pressure region, so when the low pressure region hits the end of the tube, air from the plenum rushes in and creates a compression wave heading back down the tube. The opposite happens when a high pressure region hits the end of the tube.  
+Consider a low-pressure region traveling along the tube towards the plenum. The pressure of the air in the plenum is relatively higher than that of the low-pressure region, so when the low-pressure region hits the end of the tube, air from the plenum rushes in and creates a compression wave heading back down the tube. The opposite happens when a high-pressure region hits the end of the tube.
 
-Now Consider a high pressure region travelling along the tube towards a close end, Since the closed end has infinite acoustic impedance, it further builds up the pressure this high pressure again gets reflected as an high pressure region.
+Now Consider a high-pressure region traveling along the tube towards a closed end, Since the closed end has infinite acoustic impedance, it further builds up the pressure this high pressure again gets reflected as a high-pressure region.
 
 #### Events Causing Pressure Waves
