@@ -25,4 +25,12 @@ Consider a low-pressure region traveling along the tube towards the plenum. The 
 
 Now Consider a high-pressure region traveling along the tube towards a closed end, Since the closed end has infinite acoustic impedance, it further builds up the pressure this high pressure again gets reflected as a high-pressure region.
 
-#### Events Causing Pressure Waves
+### Events Causing Pressure Waves
+
+#### 1. Valve Overlap
+
+The duration when both the intake valve and the exhaust valve remains open is known as the overlap period. During the exhaust stroke the exhaust gas is scavenged well which creates a low pressure wave at the cylinder. This low pressure wave gets away from the cylinder reflects back to the cylinder as an high pressure wave.
+
+#### 2. Intake Stroke
+
+When the piston moves down the combustion chamber, it creates a low pressure region which moves away from the cylinders. This low pressure wave passes through the intake runner towards the plenum and gets reflected as a high pressure wave and moves towards the cylinder.
