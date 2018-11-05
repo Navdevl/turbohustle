@@ -17,4 +17,6 @@ A perfectly harmonized intake system is capable of improving the volumetric effi
 
 ### What is a Pressure Wave ?
 
-When charge air gets inducted into the combustion chamber it travels in the form of pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound increases with the increase in the temperature.
+When charge air gets inducted into the combustion chamber it travels in the form of pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound increases with the increase in the temperature. The pressure waves are created by these events.
+
+#### 1. 
