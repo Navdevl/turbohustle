@@ -13,10 +13,14 @@ title = "Wave Tuning Intake System - Explained"
 type = "post"
 
 +++
-A perfectly harmonized intake system is capable of improving the volumetric efficiency at certain rev range which thereby directly increases the torque output of the engine. The concept of wave tuning is that charge air travels in the waveform and the high-pressure waves reaching the combustion chamber at the ideal time will have a supercharging effect in a Naturally aspirated engine.
+A perfectly harmonized intake system is capable of improving the volumetric efficiency at certain rev range which thereby directly increases the torque output of the engine. The concept of wave tuning is that charge air travels in the waveform and the positive-pressure wave reaching the combustion chamber at the ideal time will have a supercharging effect in a Naturally aspirated engine.
 
 ### What is a Pressure Wave ?
 
-When charge air gets inducted into the combustion chamber it travels in the form of pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound increases with the increase in the temperature. The pressure waves are created by these events.
+When charge air gets inducted into the combustion chamber it travels in the form of pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound increases with the increase in the temperature. 
 
-#### 1. 
+#### Reflection of Sound Waves
+
+Consider a low pressure region travelling along the tube towards the plenum. The pressure of the air in the plenum is comparatively higher than that of the low pressure region, so when the low pressure region hits the end of the tube, air from the plenum rushes in and creates a compression wave heading back down the tube. The opposite happens when a high pressure region hits the end of the tube.  
+
+Now Consider a high pressure region travelling along the tube towards a close end, Since the closed end has infinite acoustic impedance, it further builds up the pressure this high pressure again gets reflected as an high pressure region.
