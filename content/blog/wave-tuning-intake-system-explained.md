@@ -14,3 +14,7 @@ type = "post"
 
 +++
 A perfectly harmonized intake system is capable of improving the volumetric efficiency at certain rev range which thereby directly increases the torque output of the engine. The concept of wave tuning is that charge air travels in the waveform and the high-pressure waves reaching the combustion chamber at the ideal time will have a supercharging effect in a Naturally aspirated engine.
+
+### What is a Pressure Wave ?
+
+When charge air gets inducted into the combustion chamber it travels in the form of pressure wave. It travels at the speed of sound which is 1300 fps (foot per second) at 30 degree Celsius. The Speed of sound increases with the increase in the temperature.
