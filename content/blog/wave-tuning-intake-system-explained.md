@@ -29,12 +29,12 @@ Now Consider a high-pressure region traveling along the tube towards a closed en
 
 #### 1. Valve Overlap
 
-The duration when both the intake valve and the exhaust valve remains open is known as the overlap period. During the exhaust stroke the exhaust gas is scavenged well which creates a low pressure wave at the cylinder. This low pressure wave gets away from the cylinder reflects back to the cylinder as an high pressure wave.
+The duration when both the intake valve and the exhaust valve remains open is known as the overlap period. During the exhaust stroke, the exhaust gas is scavenged well which creates a low-pressure wave at the cylinder. This low-pressure wave gets away from the cylinder reflects back to the cylinder as a high-pressure wave.
 
 #### 2. Intake Stroke
 
-When the piston moves down the combustion chamber, it creates a low pressure region which moves away from the cylinders. This low pressure wave passes through the intake runner towards the plenum and gets reflected as a high pressure wave and moves towards the cylinder.
+When the piston moves down the combustion chamber, it creates a low-pressure region which moves away from the cylinders. This low-pressure wave passes through the intake runner towards the plenum and gets reflected as a high-pressure wave and moves towards the cylinder.
 
 #### 3. Closing of Intake Valve
 
-When the intake valve closes the pressure rises and this high pressure wave gets reflected towards the plenum and reflects as a low pressure wave and hits the closed valve. Since the valve is closed the low pressure wave gets reflected and reaches the plenum and is converted as the high pressure wave and travels towards the cylinder.
+When the intake valve closes the pressure rises and this high-pressure wave gets reflected towards the plenum and reflects as a low-pressure wave and hits the closed valve. Since the valve is closed the low-pressure wave gets reflected and reaches the plenum and is converted as the high-pressure wave and travels towards the cylinder.
