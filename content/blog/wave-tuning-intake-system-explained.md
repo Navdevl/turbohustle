@@ -13,3 +13,4 @@ title = "Wave Tuning Intake System - Explained"
 type = "post"
 
 +++
+A perfectly tuned intake system is capable of enhancing the volumetric efficiency at certain rev range which thereby directly increases the torque output of the engine. The concept of wave tuning is that charge air travels in the wave form and the high pressure waves reaching the combustion chamber at the ideal time will have a supercharging effect in a Naturally aspirated engines.
