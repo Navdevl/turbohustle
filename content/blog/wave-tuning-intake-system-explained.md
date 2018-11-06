@@ -13,7 +13,7 @@ title = "Wave Tuning Intake System - Explained"
 type = "post"
 
 +++
-A perfectly harmonized intake system is capable of improving the volumetric efficiency at certain rev range which thereby directly increases the torque output of the engine. The concept of wave tuning is that charge air travels in the waveform and the positive-pressure wave reaching the combustion chamber at the ideal time will have a supercharging effect in a Naturally aspirated engine.
+A perfectly harmonized intake system is capable of improving the volumetric efficiency at certain rev range which thereby directly increases the torque output of the engine. The concept of wave tuning is that charge air travels in the waveform. The positive-pressure wave reaching the combustion chamber at the ideal time will have a supercharging effect in a Naturally aspirated engine.
 
 ### What is a Pressure Wave ?
 
