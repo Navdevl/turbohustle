@@ -23,7 +23,7 @@ When charge air gets inducted into the combustion chamber it travels in the form
 
 Consider a low-pressure region traveling along the tube towards the plenum. The pressure of the air in the plenum is relatively higher than that of the low-pressure region, so when the low-pressure region hits the end of the tube, air from the plenum rushes in and creates a compression wave heading back down the tube. The opposite happens when a high-pressure region hits the end of the tube.
 
-Now Consider a high-pressure region traveling along the tube towards a closed end, Since the closed end has infinite acoustic impedance, it further builds up the pressure this high pressure again gets reflected as a high-pressure region.
+Now Consider a high-pressure region traveling along the tube towards a closed end, Since the closed end has infinite acoustic impedance, the pressure wave builds up and reflects again as an positive pressure wave.
 
 ### Events Causing Pressure Waves
 
@@ -37,4 +37,4 @@ When the piston moves down the combustion chamber, it creates a low-pressure reg
 
 #### 3. Closing of Intake Valve
 
-When the intake valve closes the pressure rises and this high-pressure wave gets reflected towards the plenum and reflects as a low-pressure wave and hits the closed valve. Since the valve is closed the low-pressure wave gets reflected and reaches the plenum and is converted as the high-pressure wave and travels towards the cylinder.
+When the intake valve closes the pressure rises and this high-pressure wave gets reflected towards the plenum and reflects as a low-pressure wave and hits the closed valve. Since the valve is closed the low-pressure wave gets reflected and reaches the plenum and is converted as the high-pressure wave and travels towards the cylinder.![](/img/2018/11/FAST-LS3-Runners-1200.jpg)
