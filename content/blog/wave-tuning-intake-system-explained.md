@@ -45,19 +45,19 @@ When the intake valve closes the pressure rises and this high-pressure wave gets
 
 #### 1. Intake Runner Length
 
-At lower revs, the engine cycle time is comparatively longer which means the pressure wave which gets reflected from the valve has a longer time duration to reach the cylinders. So its recommended to use a long intake runner, if you would go for lower end torque.
+At lower revs, the engine cycle time is relatively longer which means the pressure wave which gets reflected from the valve has a longer time duration to reach the cylinders. So it's recommended using a long intake runner if you would go for lower end torque.
 
-At higher revs, the cycle time gets so constrained that its closely impossible for the pressure wave to enter the cylinders with the same intake runners which was tuned for the torque at lower end. So you would need a shorter intake runner to get the most out of your machine at higher revs.
+At higher revs, the cycle time gets so constrained that it's closely impossible for the pressure wave to enter the cylinders with the same intake runners which were tuned for the torque at the lower end. So you would need a shorter intake runner to get the most out of your machine at higher revs.
 
 #### 2. Intake Runner Area
 
-Unlike intake runner length which effects power over a small window of rpm range, the area of the intake runner will affect power over the entire rev range. A smaller port would increase the velocity at lower revs which help in efficient cylinder filling. But can also cause a restriction in the top-end flow. A larger port has less restrictions at the higher revs but a reduced flow velocity can result in poor volumetric efficiency at lower revs. 
+Unlike intake runner length which effects power over a small window of the rpm range, the area of the intake runner will affect power over the entire rev range. A smaller port would increase the velocity at lower revs which help in efficient cylinder filling. But can also cause a restriction in the top-end flow. A larger port has fewer restrictions at the higher revs but a reduced flow velocity can result in poor volumetric efficiency at lower revs.
 
 ### Calculating Runner Length
 
-Since wave tuning provides better performance at certain rev range, its important to choose the desired rpm range. Lets tune the intake system to provide the best possible output at 5000 rpm.
+Since wave tuning provides better performance at certain rev range, it's important to choose the desired rpm range. Let's tune the intake system to provide the best possible output at 5000 rpm.
 
-We will be considering the Volkswagen Polo 1.2 litre Inline 4 cylinder. In this example of finding the ideal intake system which is tuned at 5000 rpm.
+We will be considering the Volkswagen Polo 1.2 Liter Inline 4 cylinder. In this example of finding the ideal intake system which is tuned at 5000 rpm.
 
 Bore = 71 mm. Stroke = 75.6 mm.
 
@@ -95,10 +95,10 @@ So for 420 CKA we have 14 ms.
 
 So the pressure wave can travel 18.2 feet in 14 ms.
 
-Since the pressure wave has to return back to the cylinder , divide it by 2 which would become 9.1 feet runner. Nine feet is too long. You can't fit pipes that long under the hood of a car very easily. But there is a way to shorten the intake runners and still get some benefit from the pressure wave. If we shorten the intake runner length by a factor of four, making it 2.275 feet, the pressure wave will travel up and down the pipe four times before the intake valve opens again. But it still arrives at the valve at the right time.
+Since the pressure wave has to return back to the cylinder, divide it by 2 which would become 9.1 feet runner. Nine feet is too long. You can't fit pipes that long under the hood of a car very easily. But there is a way to shorten the intake runners and still get some benefit from the pressure wave. If we shorten the intake runner length by a factor of four, making it 2.275 feet, the pressure wave will travel up and down the pipe four times before the intake valve opens again. But it still arrives at the valve at the right time.
 
 **Desired Intake runner Length  = 2.275 feet**
 
 ### Conclusion 
 
-These are the parameters which are taken into consideration before tuning intake manifolds. We would explore more on the exhaust side of the engine in another tech article.
+These are the parameters which are taken into deliberation before tuning intake manifolds. We would examine more on the exhaust side of the engine in another tech article.
