@@ -49,4 +49,6 @@ At lower revs, the engine cycle time is comparatively longer which means the pre
 
 At higher revs, the cycle time gets so constrained that its closely impossible for the pressure wave to enter the cylinders with the same intake runners which was tuned for the torque at lower end. So you would need a shorter intake runner to get the most out of your machine at higher revs.
 
-So 
+#### 2. Intake Runner Area
+
+Unlike intake runner length which effects power over a small window of rpm range, the area of the intake runner will affect power over the entire rev range. A smaller port would increase the velocity at lower revs which help in efficient cylinder filling. But can also cause a restriction in the top-end flow. A larger port has less restrictions at the higher revs but a reduced flow velocity can result in poor volumetric efficiency at lower revs. 
