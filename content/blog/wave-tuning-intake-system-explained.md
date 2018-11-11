@@ -37,4 +37,16 @@ When the piston moves down the combustion chamber, it creates a low-pressure reg
 
 #### 3. Closing of Intake Valve
 
-When the intake valve closes the pressure rises and this high-pressure wave gets reflected towards the plenum and reflects as a low-pressure wave and hits the closed valve. Since the valve is closed the low-pressure wave gets reflected and reaches the plenum and is converted as the high-pressure wave and travels towards the cylinder.![](/img/2018/11/FAST-LS3-Runners-1200.jpg)
+When the intake valve closes the pressure rises and this high-pressure wave gets reflected towards the plenum and reflects as a low-pressure wave and hits the closed valve. Since the valve is closed the low-pressure wave gets reflected and reaches the plenum and is converted as the high-pressure wave and travels towards the cylinder.
+
+![](/img/2018/11/FAST-LS3-Runners-1200.jpg)
+
+### Design Specifications
+
+#### 1. Intake Runner Length
+
+At lower revs, the engine cycle time is comparatively longer which means the pressure wave which gets reflected from the valve has a longer time duration to reach the cylinders. So its recommended to use a long intake runner, if you would go for lower end torque.
+
+At higher revs, the cycle time gets so constrained that its closely impossible for the pressure wave to enter the cylinders with the same intake runners which was tuned for the torque at lower end. So you would need a shorter intake runner to get the most out of your machine at higher revs.
+
+So 
