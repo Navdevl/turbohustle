@@ -98,3 +98,7 @@ So the pressure wave can travel 18.2 feet in 14 ms.
 Since the pressure wave has to return back to the cylinder , divide it by 2 which would become 9.1 feet runner. Nine feet is too long. You can't fit pipes that long under the hood of a car very easily. But there is a way to shorten the intake runners and still get some benefit from the pressure wave. If we shorten the intake runner length by a factor of four, making it 2.275 feet, the pressure wave will travel up and down the pipe four times before the intake valve opens again. But it still arrives at the valve at the right time.
 
 **Desired Intake runner Length  = 2.275 feet**
+
+### Conclusion 
+
+These are the parameters which are taken into consideration before tuning intake manifolds. We would explore more on the exhaust side of the engine in another tech article.
