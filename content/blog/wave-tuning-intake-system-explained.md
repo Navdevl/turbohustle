@@ -84,3 +84,17 @@ Intake port Area = 1.226 sq.cm
 **_Intake Port Velocity = 2440042 cm per minute (approx 1300 feet per second)_**
 
 ##### Step 2 
+
+Consider a Intake cam shaft which opens the valves at 40 deg BTDC and 80 deg ABDC. So the time the valve is closed
+
+**_Valve closed duration_** = 720 - 180 - 4 - 80 = **420 CKA**
+
+At 5000 rpm Engine Cycle time is 24 ms.
+
+So for 420 CKA we have 14 ms.
+
+So the pressure wave can travel 18.2 feet in 14 ms.
+
+Since the pressure wave has to return back to the cylinder , divide it by 2. 
+
+Its practically not feasible to have a intake runner of length 9.1 feet. But if the wave gets reflected four times a runner of length 1.13 ms
