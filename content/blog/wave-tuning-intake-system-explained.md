@@ -57,6 +57,30 @@ Unlike intake runner length which effects power over a small window of rpm range
 
 Since wave tuning provides better performance at certain rev range, its important to choose the desired rpm range. Lets tune the intake system to provide the best possible output at 5000 rpm.
 
+We will be considering the Volkswagen Polo 1.2 litre Inline 4 cylinder. In this example of finding the ideal intake system which is tuned at 5000 rpm.
+
+Bore = 71 mm. Stroke = 75.6 mm.
+
 ##### Step 1
 
-**Intake Port Velocity = (Cylinder Bore Area / Intake Port Area) x MPS**
+**Intake Port Velocity = (Cylinder Bore Area / Intake Port Area) * MPS**
+
+Here,
+
+**Cylinder Bore Area = (3.14/4) * Bore^2**
+
+_Cylinder Bore Area = 39.57 sq.cm_
+
+**Mean Piston Speed = 2* Stroke * RPM**
+
+_Mean Piston Speed = 75600 cm per minute_
+
+For a 12.5 mm port diameter we have
+
+**Intake Port Area = (3.14/4)* Bore^2**
+
+Intake port Area = 1.226 sq.cm
+
+**_Intake Port Velocity = 2440042 cm per minute (approx 1300 feet per second)_**
+
+##### Step 2 
