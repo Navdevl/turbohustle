@@ -77,7 +77,7 @@ _Mean Piston Speed = 75600 cm per minute_
 
 For a 12.5 mm port diameter we have
 
-**Intake Port Area = (3.14/4)* Bore^2**
+**Intake Port Area = (0.785)* Bore^2**
 
 Intake port Area = 1.226 sq.cm
 
