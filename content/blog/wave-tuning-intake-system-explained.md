@@ -95,6 +95,4 @@ So for 420 CKA we have 14 ms.
 
 So the pressure wave can travel 18.2 feet in 14 ms.
 
-Since the pressure wave has to return back to the cylinder , divide it by 2. 
-
-Its practically not feasible to have a intake runner of length 9.1 feet. But if the wave gets reflected four times a runner of length 1.13 ms
+Since the pressure wave has to return back to the cylinder , divide it by 2 which would become 9.1 feet runner. Nine feet is too long. You can't fit pipes that long under the hood of a car very easily. But there is a way to shorten the intake runners and still get some benefit from the pressure wave. If we shorten the intake runner length by a factor of four, making it 2.275 feet, the pressure wave will travel up and down the pipe four times before the intake valve opens again. But it still arrives at the valve at the right time.
