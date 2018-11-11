@@ -52,3 +52,11 @@ At higher revs, the cycle time gets so constrained that its closely impossible f
 #### 2. Intake Runner Area
 
 Unlike intake runner length which effects power over a small window of rpm range, the area of the intake runner will affect power over the entire rev range. A smaller port would increase the velocity at lower revs which help in efficient cylinder filling. But can also cause a restriction in the top-end flow. A larger port has less restrictions at the higher revs but a reduced flow velocity can result in poor volumetric efficiency at lower revs. 
+
+### Calculating Runner Length
+
+Since wave tuning provides better performance at certain rev range, its important to choose the desired rpm range. Lets tune the intake system to provide the best possible output at 5000 rpm.
+
+##### Step 1
+
+**Intake Port Velocity = (Cylinder Bore Area / Intake Port Area) x MPS**
