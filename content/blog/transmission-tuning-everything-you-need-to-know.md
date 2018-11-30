@@ -16,3 +16,7 @@ type = "post"
 ### Transmission Tuning - Why??
 
 An OEM calibrator selects the shift points based on the stock engine performance and power figures. Once the engine is custom remapped, the torque band is altered and the stock transmission map can't serve the purpose. With an OEM calibration, the shift time will be on the comfort side with less aggression which can be a thorn in your legs in certain scenarios. So based on the present engine performance the shift points are changed with some additional aggression in both up shifts and down shifts.
+
+#### Shift Speed vs Throttle position
+
+This will be your base map for shifting gears which takes the throttle position and the vehicle speed into consideration. This map has to be properly tuned 
